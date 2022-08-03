@@ -1,0 +1,82 @@
+.Music-main{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    z-index: 0;
+    overflow-y: scroll;
+}
+
+.Music-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+}
+
+.Music-intro-text{
+    width: 93%;
+}
+
+.Music-image-container{
+    width: 100vw;
+    height: 66vw;
+    /* height: 500px; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../../images/concertAudienceOrange.jpg');
+    box-sizing: border-box;
+    box-shadow: inset 0 0 30px 15px black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+    align-content: flex-end;
+}
+
+.whitespace{
+    height: 120px;
+    width: 100%;
+}
+
+.Music-container h3{
+    width: 100%;
+}
+
+.Music-section{
+    width: 93%;
+}
+
+.song-container{
+    display: grid;
+    grid-template-columns: 90px 1fr 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.song-cover{
+    width: 80px;
+    border-radius: 5px;
+}
+
+.song-text{
+    grid-column: 2;
+}
+
+.song-track-name{
+    font-weight: 300;
+}
+
+.logo-links{
+    display: flex;
+    justify-content: right;
+    grid-column: 3;
+}
+
+
+
+
+

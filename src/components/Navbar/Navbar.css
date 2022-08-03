@@ -1,0 +1,98 @@
+.Navbar-main{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.Navbar-container{
+    position: fixed;
+    width: 100%;
+    padding: 8px;
+    padding-bottom: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: flex-end;
+    z-index: 10;
+}
+
+.nav-text{
+    margin-left: 5%;
+    width: 230px;
+}
+
+.mobile-menu-container{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100vw;
+    height: 100%;
+    position: fixed;
+    bottom: calc(100% - 120px);
+    left: 0;
+    transition: 500ms ease;
+    z-index: 2;
+    display: grid;
+    grid-template-rows: 200px 1fr 160px;
+}
+
+.mobile-menu-container.open{
+    bottom: 0;
+    background-color: #8c867bf4;
+    transition: 750ms ease;
+}
+
+.mobile-menu-items{
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+
+.mobile-menu-item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    text-decoration: none;
+}
+
+.mobile-menu-text{
+    text-decoration: none;
+    padding: 2px 5px;
+}
+
+.mobile-icon-container{
+    margin-right: 5%;
+    width: 50px;
+    height: 50px;
+}
+
+.mobile-icon{
+    z-index: 4;
+    position: absolute;
+    opacity: 1;
+    transition: 500ms ease;
+    transition-delay: 100ms;
+}
+
+.hide{
+    opacity: 0;
+    transition: 100ms ease;
+}
+
+.whitespace{
+    height: 120px;
+    width: 100%;
+}
+
+.other-worlds-link{
+    margin-bottom: -5px;
+}

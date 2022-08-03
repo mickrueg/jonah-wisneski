@@ -1,13 +1,71 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap');
+
+html, body{
+  width: 100%;
+  height: 100%;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.App{
+  background-color: black;
+  height: 100vh;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
 }
+
+h1{
+  font-weight: 600;
+  font-size: 45px;
+  margin: 0;
+  padding: 0;
+}
+
+h2{
+  margin: 0;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 0;
+  font-weight: 600;
+  font-size: 61;
+}
+
+h3{
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+h4{
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  font-size: 28;
+}
+
+h5{
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  font-size: 12px; 
+}
+
+h5 b{
+  font-weight: 600;
+}
+
+h6{
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  font-size: 10px;
+}
+
+a{
+  color: inherit;
+}
+

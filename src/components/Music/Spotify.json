@@ -1,0 +1,1866 @@
+{
+    "collaborative": false,
+    "description": "Songs I&#x27;ve written, performed on, or produced",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/24qeMQk4FpwEqxzMY8PEhy"
+    },
+    "followers": {
+      "href": null,
+      "total": 0
+    },
+    "href": "https://api.spotify.com/v1/playlists/24qeMQk4FpwEqxzMY8PEhy",
+    "id": "24qeMQk4FpwEqxzMY8PEhy",
+    "images": [
+      {
+        "height": null,
+        "url": "https://i.scdn.co/image/ab67706c0000bebb1907618a60e7c6781a86400e",
+        "width": null
+      }
+    ],
+    "name": "Appearing On...",
+    "owner": {
+      "display_name": "Jonah Wisneski",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1245009905"
+      },
+      "href": "https://api.spotify.com/v1/users/1245009905",
+      "id": "1245009905",
+      "type": "user",
+      "uri": "spotify:user:1245009905"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NTEsNTdhOTNhMTgwNGNkYjE3YTFjNzBjZmRhOTYwMDE4MTc0NjdjMjU0NQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/24qeMQk4FpwEqxzMY8PEhy/tracks?offset=0&limit=100&market=US&locale=en-US,en;q=0.9",
+      "items": [
+        {
+          "added_at": "2022-05-20T16:50:29Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                  "id": "4sZvnUVZpKVIolaMDEQZ62",
+                  "name": "King Cardinal",
+                  "type": "artist",
+                  "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/7DZSYtH5e1mb1Z6K2Dei9z"
+              },
+              "href": "https://api.spotify.com/v1/albums/7DZSYtH5e1mb1Z6K2Dei9z",
+              "id": "7DZSYtH5e1mb1Z6K2Dei9z",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2739c9c541bfe30cd04db840516",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e029c9c541bfe30cd04db840516",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048519c9c541bfe30cd04db840516",
+                  "width": 64
+                }
+              ],
+              "name": "Runaway",
+              "release_date": "2022-03-02",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:7DZSYtH5e1mb1Z6K2Dei9z"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                },
+                "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                "id": "4sZvnUVZpKVIolaMDEQZ62",
+                "name": "King Cardinal",
+                "type": "artist",
+                "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 308061,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QZFYZ2299716"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/2NHB0nZjIOYuAPn1fbqBKm"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2NHB0nZjIOYuAPn1fbqBKm",
+            "id": "2NHB0nZjIOYuAPn1fbqBKm",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Runaway",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/9cd5897fabf3f3065a818afb9986cff72619248e?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:2NHB0nZjIOYuAPn1fbqBKm"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2020-09-02T17:40:44Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                  "id": "4sZvnUVZpKVIolaMDEQZ62",
+                  "name": "King Cardinal",
+                  "type": "artist",
+                  "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/0cujArpTIvSsveM2v9FPO6"
+              },
+              "href": "https://api.spotify.com/v1/albums/0cujArpTIvSsveM2v9FPO6",
+              "id": "0cujArpTIvSsveM2v9FPO6",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2738516ddf6fd429265e7aebe97",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e028516ddf6fd429265e7aebe97",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048518516ddf6fd429265e7aebe97",
+                  "width": 64
+                }
+              ],
+              "name": "Bluebird Day",
+              "release_date": "2020-08-07",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:0cujArpTIvSsveM2v9FPO6"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                },
+                "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                "id": "4sZvnUVZpKVIolaMDEQZ62",
+                "name": "King Cardinal",
+                "type": "artist",
+                "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 210856,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "ushm82085926"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/0neYzSx0BzYIMXnrjhFVV4"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0neYzSx0BzYIMXnrjhFVV4",
+            "id": "0neYzSx0BzYIMXnrjhFVV4",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Bluebird Day",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/e032cda378035171e46833531f1b90d432aa0ea2?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0neYzSx0BzYIMXnrjhFVV4"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2022-06-23T07:08:00Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                  "id": "4sZvnUVZpKVIolaMDEQZ62",
+                  "name": "King Cardinal",
+                  "type": "artist",
+                  "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/6W2Nyy8pOFIWWlzMk7L3VD"
+              },
+              "href": "https://api.spotify.com/v1/albums/6W2Nyy8pOFIWWlzMk7L3VD",
+              "id": "6W2Nyy8pOFIWWlzMk7L3VD",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27384538a06f3ed816a1d61a362",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0284538a06f3ed816a1d61a362",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485184538a06f3ed816a1d61a362",
+                  "width": 64
+                }
+              ],
+              "name": "In Tall Buildings",
+              "release_date": "2022-06-08",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:6W2Nyy8pOFIWWlzMk7L3VD"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                },
+                "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                "id": "4sZvnUVZpKVIolaMDEQZ62",
+                "name": "King Cardinal",
+                "type": "artist",
+                "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 233572,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QZHNB2273502"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/7n1k3EbLU8C1GK3iRI5k5Y"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7n1k3EbLU8C1GK3iRI5k5Y",
+            "id": "7n1k3EbLU8C1GK3iRI5k5Y",
+            "is_local": false,
+            "is_playable": true,
+            "name": "In Tall Buildings",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/faa89c406ea3f2f3d5c8573571efda6b25909fb4?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:7n1k3EbLU8C1GK3iRI5k5Y"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2021-06-08T18:02:53Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                  "id": "4sZvnUVZpKVIolaMDEQZ62",
+                  "name": "King Cardinal",
+                  "type": "artist",
+                  "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/5WsWfXi3ZQS4BabbbkmnLu"
+              },
+              "href": "https://api.spotify.com/v1/albums/5WsWfXi3ZQS4BabbbkmnLu",
+              "id": "5WsWfXi3ZQS4BabbbkmnLu",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27363f1dc1fe25e0874a0b0d185",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0263f1dc1fe25e0874a0b0d185",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485163f1dc1fe25e0874a0b0d185",
+                  "width": 64
+                }
+              ],
+              "name": "Rattlin'",
+              "release_date": "2021-05-26",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:5WsWfXi3ZQS4BabbbkmnLu"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                },
+                "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                "id": "4sZvnUVZpKVIolaMDEQZ62",
+                "name": "King Cardinal",
+                "type": "artist",
+                "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 178145,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QZHN52164611"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/0tGU0iQdgYW8OGMn9mnddT"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0tGU0iQdgYW8OGMn9mnddT",
+            "id": "0tGU0iQdgYW8OGMn9mnddT",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Rattlin'",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/e62dccea8cf8ade816ec26f4ead1e390c2b55edf?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0tGU0iQdgYW8OGMn9mnddT"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-07-10T04:32:28Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/4Lqc7X9O6X7gcXlkwsKKD7"
+              },
+              "href": "https://api.spotify.com/v1/albums/4Lqc7X9O6X7gcXlkwsKKD7",
+              "id": "4Lqc7X9O6X7gcXlkwsKKD7",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273dd2f420292d0f9cc45d75f75",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02dd2f420292d0f9cc45d75f75",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851dd2f420292d0f9cc45d75f75",
+                  "width": 64
+                }
+              ],
+              "name": "Weather Patterns",
+              "release_date": "2016-05-06",
+              "release_date_precision": "day",
+              "total_tracks": 9,
+              "type": "album",
+              "uri": "spotify:album:4Lqc7X9O6X7gcXlkwsKKD7"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                },
+                "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                "id": "22PEAcONaGzOfEE6HkHjYe",
+                "name": "Other Worlds",
+                "type": "artist",
+                "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 270785,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QM4DW1644534"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/0OMnOzVtILFCClYuryc8R0"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0OMnOzVtILFCClYuryc8R0",
+            "id": "0OMnOzVtILFCClYuryc8R0",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Forgive Me",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/2054e48105a555396cf3d963bf1ad53992e9d23d?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:0OMnOzVtILFCClYuryc8R0"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-07-10T04:30:56Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/4Lqc7X9O6X7gcXlkwsKKD7"
+              },
+              "href": "https://api.spotify.com/v1/albums/4Lqc7X9O6X7gcXlkwsKKD7",
+              "id": "4Lqc7X9O6X7gcXlkwsKKD7",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273dd2f420292d0f9cc45d75f75",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02dd2f420292d0f9cc45d75f75",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851dd2f420292d0f9cc45d75f75",
+                  "width": 64
+                }
+              ],
+              "name": "Weather Patterns",
+              "release_date": "2016-05-06",
+              "release_date_precision": "day",
+              "total_tracks": 9,
+              "type": "album",
+              "uri": "spotify:album:4Lqc7X9O6X7gcXlkwsKKD7"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                },
+                "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                "id": "22PEAcONaGzOfEE6HkHjYe",
+                "name": "Other Worlds",
+                "type": "artist",
+                "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 330109,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QM4DW1644530"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/2X7tVVi6czV2h9jH510LwY"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2X7tVVi6czV2h9jH510LwY",
+            "id": "2X7tVVi6czV2h9jH510LwY",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Sandfly",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/8993e872817efc634d9a2155709f99a830635e96?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:2X7tVVi6czV2h9jH510LwY"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-07-10T04:32:35Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/4Lqc7X9O6X7gcXlkwsKKD7"
+              },
+              "href": "https://api.spotify.com/v1/albums/4Lqc7X9O6X7gcXlkwsKKD7",
+              "id": "4Lqc7X9O6X7gcXlkwsKKD7",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273dd2f420292d0f9cc45d75f75",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02dd2f420292d0f9cc45d75f75",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851dd2f420292d0f9cc45d75f75",
+                  "width": 64
+                }
+              ],
+              "name": "Weather Patterns",
+              "release_date": "2016-05-06",
+              "release_date_precision": "day",
+              "total_tracks": 9,
+              "type": "album",
+              "uri": "spotify:album:4Lqc7X9O6X7gcXlkwsKKD7"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                },
+                "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                "id": "22PEAcONaGzOfEE6HkHjYe",
+                "name": "Other Worlds",
+                "type": "artist",
+                "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 308583,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QM4DW1644532"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/0NLKew8yxFojE6cwpDHcSY"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0NLKew8yxFojE6cwpDHcSY",
+            "id": "0NLKew8yxFojE6cwpDHcSY",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Morning Song (Home)",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/9fd405ffa369f0d7ffe34cbe46c76c2ef107c1cc?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:0NLKew8yxFojE6cwpDHcSY"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-07-10T04:33:44Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4kmEYh09DRiOAEsPHMzRzV"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4kmEYh09DRiOAEsPHMzRzV",
+                  "id": "4kmEYh09DRiOAEsPHMzRzV",
+                  "name": "Andy Palmer",
+                  "type": "artist",
+                  "uri": "spotify:artist:4kmEYh09DRiOAEsPHMzRzV"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/6938fhSf6OBqo20YvdH71q"
+              },
+              "href": "https://api.spotify.com/v1/albums/6938fhSf6OBqo20YvdH71q",
+              "id": "6938fhSf6OBqo20YvdH71q",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2735c0084bfc41bc0eff142c749",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e025c0084bfc41bc0eff142c749",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048515c0084bfc41bc0eff142c749",
+                  "width": 64
+                }
+              ],
+              "name": "Storm's Not Coming",
+              "release_date": "2014-10-21",
+              "release_date_precision": "day",
+              "total_tracks": 2,
+              "type": "album",
+              "uri": "spotify:album:6938fhSf6OBqo20YvdH71q"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4kmEYh09DRiOAEsPHMzRzV"
+                },
+                "href": "https://api.spotify.com/v1/artists/4kmEYh09DRiOAEsPHMzRzV",
+                "id": "4kmEYh09DRiOAEsPHMzRzV",
+                "name": "Andy Palmer",
+                "type": "artist",
+                "uri": "spotify:artist:4kmEYh09DRiOAEsPHMzRzV"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 231648,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QMV6A1400007"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/0z34jMP2bFc47F7cy9XFq4"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0z34jMP2bFc47F7cy9XFq4",
+            "id": "0z34jMP2bFc47F7cy9XFq4",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Storm's Not Coming",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/72b174ea76e32334d07a038a24fecf900cf893de?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0z34jMP2bFc47F7cy9XFq4"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-07-10T04:33:52Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4kmEYh09DRiOAEsPHMzRzV"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4kmEYh09DRiOAEsPHMzRzV",
+                  "id": "4kmEYh09DRiOAEsPHMzRzV",
+                  "name": "Andy Palmer",
+                  "type": "artist",
+                  "uri": "spotify:artist:4kmEYh09DRiOAEsPHMzRzV"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/5xRNCnAgIke3Lb30mN2SDl"
+              },
+              "href": "https://api.spotify.com/v1/albums/5xRNCnAgIke3Lb30mN2SDl",
+              "id": "5xRNCnAgIke3Lb30mN2SDl",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273c89c6f24244e2b68c5173afc",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02c89c6f24244e2b68c5173afc",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851c89c6f24244e2b68c5173afc",
+                  "width": 64
+                }
+              ],
+              "name": "Live at the Boulder Theater",
+              "release_date": "2014-08-19",
+              "release_date_precision": "day",
+              "total_tracks": 6,
+              "type": "album",
+              "uri": "spotify:album:5xRNCnAgIke3Lb30mN2SDl"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4kmEYh09DRiOAEsPHMzRzV"
+                },
+                "href": "https://api.spotify.com/v1/artists/4kmEYh09DRiOAEsPHMzRzV",
+                "id": "4kmEYh09DRiOAEsPHMzRzV",
+                "name": "Andy Palmer",
+                "type": "artist",
+                "uri": "spotify:artist:4kmEYh09DRiOAEsPHMzRzV"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                },
+                "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                "id": "673wiBE4JqZA36MViFNwXx",
+                "name": "Jonah Wisneski",
+                "type": "artist",
+                "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 368266,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "US6R21468788"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/2XZHvCbBUsHSJyD43a8ntx"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2XZHvCbBUsHSJyD43a8ntx",
+            "id": "2XZHvCbBUsHSJyD43a8ntx",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Grrr - Live",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/1a4c16dec685141d6e95e57368c0c043154a711b?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:2XZHvCbBUsHSJyD43a8ntx"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-07-10T04:34:03Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4kmEYh09DRiOAEsPHMzRzV"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4kmEYh09DRiOAEsPHMzRzV",
+                  "id": "4kmEYh09DRiOAEsPHMzRzV",
+                  "name": "Andy Palmer",
+                  "type": "artist",
+                  "uri": "spotify:artist:4kmEYh09DRiOAEsPHMzRzV"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/4c3BHlXtlsn30LISoWgtFx"
+              },
+              "href": "https://api.spotify.com/v1/albums/4c3BHlXtlsn30LISoWgtFx",
+              "id": "4c3BHlXtlsn30LISoWgtFx",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2738de20005dfdf0e211c376d15",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e028de20005dfdf0e211c376d15",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048518de20005dfdf0e211c376d15",
+                  "width": 64
+                }
+              ],
+              "name": "The Switch",
+              "release_date": "2017-05-19",
+              "release_date_precision": "day",
+              "total_tracks": 8,
+              "type": "album",
+              "uri": "spotify:album:4c3BHlXtlsn30LISoWgtFx"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4kmEYh09DRiOAEsPHMzRzV"
+                },
+                "href": "https://api.spotify.com/v1/artists/4kmEYh09DRiOAEsPHMzRzV",
+                "id": "4kmEYh09DRiOAEsPHMzRzV",
+                "name": "Andy Palmer",
+                "type": "artist",
+                "uri": "spotify:artist:4kmEYh09DRiOAEsPHMzRzV"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 240491,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QM9A91646391"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/3m8LXL0xFrT37tcPvXUB1K"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3m8LXL0xFrT37tcPvXUB1K",
+            "id": "3m8LXL0xFrT37tcPvXUB1K",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Will You Remember Me",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/78d24a6fb7993d12561a47387dd3e81565f5e3ce?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:3m8LXL0xFrT37tcPvXUB1K"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2022-02-11T20:47:28Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4Jwt7ktvUucEwXAMb1rZB9"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4Jwt7ktvUucEwXAMb1rZB9",
+                  "id": "4Jwt7ktvUucEwXAMb1rZB9",
+                  "name": "Dance Party Time Machine",
+                  "type": "artist",
+                  "uri": "spotify:artist:4Jwt7ktvUucEwXAMb1rZB9"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5i66bLKIxJ3z2qxHLUs1VR"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5i66bLKIxJ3z2qxHLUs1VR",
+                  "id": "5i66bLKIxJ3z2qxHLUs1VR",
+                  "name": "Jennifer Hartswick",
+                  "type": "artist",
+                  "uri": "spotify:artist:5i66bLKIxJ3z2qxHLUs1VR"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2yhPnHMNXni3mo7407T4Tn"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2yhPnHMNXni3mo7407T4Tn",
+                  "id": "2yhPnHMNXni3mo7407T4Tn",
+                  "name": "Aron Magner",
+                  "type": "artist",
+                  "uri": "spotify:artist:2yhPnHMNXni3mo7407T4Tn"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/6o4sQQzfm7uQB8fApu0YIa"
+              },
+              "href": "https://api.spotify.com/v1/albums/6o4sQQzfm7uQB8fApu0YIa",
+              "id": "6o4sQQzfm7uQB8fApu0YIa",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273ffb62e31ab275b4c048f9856",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02ffb62e31ab275b4c048f9856",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851ffb62e31ab275b4c048f9856",
+                  "width": 64
+                }
+              ],
+              "name": "Could You Be Loved",
+              "release_date": "2022-02-11",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:6o4sQQzfm7uQB8fApu0YIa"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4Jwt7ktvUucEwXAMb1rZB9"
+                },
+                "href": "https://api.spotify.com/v1/artists/4Jwt7ktvUucEwXAMb1rZB9",
+                "id": "4Jwt7ktvUucEwXAMb1rZB9",
+                "name": "Dance Party Time Machine",
+                "type": "artist",
+                "uri": "spotify:artist:4Jwt7ktvUucEwXAMb1rZB9"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5i66bLKIxJ3z2qxHLUs1VR"
+                },
+                "href": "https://api.spotify.com/v1/artists/5i66bLKIxJ3z2qxHLUs1VR",
+                "id": "5i66bLKIxJ3z2qxHLUs1VR",
+                "name": "Jennifer Hartswick",
+                "type": "artist",
+                "uri": "spotify:artist:5i66bLKIxJ3z2qxHLUs1VR"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2yhPnHMNXni3mo7407T4Tn"
+                },
+                "href": "https://api.spotify.com/v1/artists/2yhPnHMNXni3mo7407T4Tn",
+                "id": "2yhPnHMNXni3mo7407T4Tn",
+                "name": "Aron Magner",
+                "type": "artist",
+                "uri": "spotify:artist:2yhPnHMNXni3mo7407T4Tn"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7xX41W2vBhokdaISYjysxM"
+                },
+                "href": "https://api.spotify.com/v1/artists/7xX41W2vBhokdaISYjysxM",
+                "id": "7xX41W2vBhokdaISYjysxM",
+                "name": "Ian Gilley",
+                "type": "artist",
+                "uri": "spotify:artist:7xX41W2vBhokdaISYjysxM"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
+                },
+                "href": "https://api.spotify.com/v1/artists/283nM4qq83QsqRLbSz3iAl",
+                "id": "283nM4qq83QsqRLbSz3iAl",
+                "name": "Jeff Franca",
+                "type": "artist",
+                "uri": "spotify:artist:283nM4qq83QsqRLbSz3iAl"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4L9xygmEd6NLswdzFpok8Z"
+                },
+                "href": "https://api.spotify.com/v1/artists/4L9xygmEd6NLswdzFpok8Z",
+                "id": "4L9xygmEd6NLswdzFpok8Z",
+                "name": "Natalie Cressman",
+                "type": "artist",
+                "uri": "spotify:artist:4L9xygmEd6NLswdzFpok8Z"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/02z3LetLKCbyaUqAuHtaMD"
+                },
+                "href": "https://api.spotify.com/v1/artists/02z3LetLKCbyaUqAuHtaMD",
+                "id": "02z3LetLKCbyaUqAuHtaMD",
+                "name": "Ryan Jalbert",
+                "type": "artist",
+                "uri": "spotify:artist:02z3LetLKCbyaUqAuHtaMD"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4Asvh0XFQ96ULg5DfmiNia"
+                },
+                "href": "https://api.spotify.com/v1/artists/4Asvh0XFQ96ULg5DfmiNia",
+                "id": "4Asvh0XFQ96ULg5DfmiNia",
+                "name": "Josh Fairman",
+                "type": "artist",
+                "uri": "spotify:artist:4Asvh0XFQ96ULg5DfmiNia"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                },
+                "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                "id": "673wiBE4JqZA36MViFNwXx",
+                "name": "Jonah Wisneski",
+                "type": "artist",
+                "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 235012,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QZAKB2155582"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/5cKwUwySt5f4PLsgytGpMJ"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5cKwUwySt5f4PLsgytGpMJ",
+            "id": "5cKwUwySt5f4PLsgytGpMJ",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Could You Be Loved",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/e809e26e506479d1d8926acd117ec2c316a4b63c?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:5cKwUwySt5f4PLsgytGpMJ"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2021-06-18T22:05:48Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/361iYVPTu3zs3QNOYNi5fn"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/361iYVPTu3zs3QNOYNi5fn",
+                  "id": "361iYVPTu3zs3QNOYNi5fn",
+                  "name": "Thomas Harpole",
+                  "type": "artist",
+                  "uri": "spotify:artist:361iYVPTu3zs3QNOYNi5fn"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/0lxaKg0UdR1HUlwR61OBsK"
+              },
+              "href": "https://api.spotify.com/v1/albums/0lxaKg0UdR1HUlwR61OBsK",
+              "id": "0lxaKg0UdR1HUlwR61OBsK",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f6a73e5c05ac7d6d098d6967",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f6a73e5c05ac7d6d098d6967",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851f6a73e5c05ac7d6d098d6967",
+                  "width": 64
+                }
+              ],
+              "name": "Headlights (The 1916 Funk)",
+              "release_date": "2021-06-17",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:0lxaKg0UdR1HUlwR61OBsK"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/361iYVPTu3zs3QNOYNi5fn"
+                },
+                "href": "https://api.spotify.com/v1/artists/361iYVPTu3zs3QNOYNi5fn",
+                "id": "361iYVPTu3zs3QNOYNi5fn",
+                "name": "Thomas Harpole",
+                "type": "artist",
+                "uri": "spotify:artist:361iYVPTu3zs3QNOYNi5fn"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 300654,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QZHN82104310"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/3m0BZlK61cGbd6QLt13Lht"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3m0BZlK61cGbd6QLt13Lht",
+            "id": "3m0BZlK61cGbd6QLt13Lht",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Headlights (The 1916 Funk)",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/65a34b2b48b5b26987dc7b4b790644e3a9dde61d?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:3m0BZlK61cGbd6QLt13Lht"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-12-22T01:37:19Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/49XPNlNQ8QCizhEMz0bwZE"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/49XPNlNQ8QCizhEMz0bwZE",
+                  "id": "49XPNlNQ8QCizhEMz0bwZE",
+                  "name": "Jaden Carlson Band",
+                  "type": "artist",
+                  "uri": "spotify:artist:49XPNlNQ8QCizhEMz0bwZE"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/3uhieQwkLxp18BQvt6KGbU"
+              },
+              "href": "https://api.spotify.com/v1/albums/3uhieQwkLxp18BQvt6KGbU",
+              "id": "3uhieQwkLxp18BQvt6KGbU",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273bff36b6964ecc2c96c8ba504",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02bff36b6964ecc2c96c8ba504",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851bff36b6964ecc2c96c8ba504",
+                  "width": 64
+                }
+              ],
+              "name": "Skyline",
+              "release_date": "2019-12-17",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:3uhieQwkLxp18BQvt6KGbU"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/49XPNlNQ8QCizhEMz0bwZE"
+                },
+                "href": "https://api.spotify.com/v1/artists/49XPNlNQ8QCizhEMz0bwZE",
+                "id": "49XPNlNQ8QCizhEMz0bwZE",
+                "name": "Jaden Carlson Band",
+                "type": "artist",
+                "uri": "spotify:artist:49XPNlNQ8QCizhEMz0bwZE"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 375453,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "TCAEN1910077"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/0IjWTRtsF0t7Re5ofeibKJ"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0IjWTRtsF0t7Re5ofeibKJ",
+            "id": "0IjWTRtsF0t7Re5ofeibKJ",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Skyline",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d05a4e7ddfe66b49dfb6fe80028c8f98fcd25a9?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0IjWTRtsF0t7Re5ofeibKJ"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2020-11-06T17:23:16Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/29hlBCEYOUrFNtXSX8HO6q"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/29hlBCEYOUrFNtXSX8HO6q",
+                  "id": "29hlBCEYOUrFNtXSX8HO6q",
+                  "name": "Tom Nowakowski and the Northern Orchestra",
+                  "type": "artist",
+                  "uri": "spotify:artist:29hlBCEYOUrFNtXSX8HO6q"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/7qlJJN60sowgDi1LuaV8jc"
+              },
+              "href": "https://api.spotify.com/v1/albums/7qlJJN60sowgDi1LuaV8jc",
+              "id": "7qlJJN60sowgDi1LuaV8jc",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2738738be8fb82240dced6104ea",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e028738be8fb82240dced6104ea",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048518738be8fb82240dced6104ea",
+                  "width": 64
+                }
+              ],
+              "name": "King of the World",
+              "release_date": "2020-11-06",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:7qlJJN60sowgDi1LuaV8jc"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/29hlBCEYOUrFNtXSX8HO6q"
+                },
+                "href": "https://api.spotify.com/v1/artists/29hlBCEYOUrFNtXSX8HO6q",
+                "id": "29hlBCEYOUrFNtXSX8HO6q",
+                "name": "Tom Nowakowski and the Northern Orchestra",
+                "type": "artist",
+                "uri": "spotify:artist:29hlBCEYOUrFNtXSX8HO6q"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 305388,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QZMER2058571"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/1b4xm3ydtyLwpRM3CybIRr"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1b4xm3ydtyLwpRM3CybIRr",
+            "id": "1b4xm3ydtyLwpRM3CybIRr",
+            "is_local": false,
+            "is_playable": true,
+            "name": "King of the World",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/16b7fec33cd21795b1e00dfe82982f5168923d4e?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:1b4xm3ydtyLwpRM3CybIRr"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-07-10T05:27:42Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/4Lqc7X9O6X7gcXlkwsKKD7"
+              },
+              "href": "https://api.spotify.com/v1/albums/4Lqc7X9O6X7gcXlkwsKKD7",
+              "id": "4Lqc7X9O6X7gcXlkwsKKD7",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273dd2f420292d0f9cc45d75f75",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02dd2f420292d0f9cc45d75f75",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851dd2f420292d0f9cc45d75f75",
+                  "width": 64
+                }
+              ],
+              "name": "Weather Patterns",
+              "release_date": "2016-05-06",
+              "release_date_precision": "day",
+              "total_tracks": 9,
+              "type": "album",
+              "uri": "spotify:album:4Lqc7X9O6X7gcXlkwsKKD7"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                },
+                "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                "id": "22PEAcONaGzOfEE6HkHjYe",
+                "name": "Other Worlds",
+                "type": "artist",
+                "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 353515,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QM4DW1644529"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/25KAsTixsgfILlJvbJ2MRJ"
+            },
+            "href": "https://api.spotify.com/v1/tracks/25KAsTixsgfILlJvbJ2MRJ",
+            "id": "25KAsTixsgfILlJvbJ2MRJ",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Visuals",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/3507aad1dc198f197099590381652961c7abc96f?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:25KAsTixsgfILlJvbJ2MRJ"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-07-10T04:34:25Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/5Nyqq53X6eZmLkcIfCowvy"
+              },
+              "href": "https://api.spotify.com/v1/albums/5Nyqq53X6eZmLkcIfCowvy",
+              "id": "5Nyqq53X6eZmLkcIfCowvy",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f5852079884dbef93d5336ca",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f5852079884dbef93d5336ca",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851f5852079884dbef93d5336ca",
+                  "width": 64
+                }
+              ],
+              "name": "Lights",
+              "release_date": "2011-10-18",
+              "release_date_precision": "day",
+              "total_tracks": 9,
+              "type": "album",
+              "uri": "spotify:album:5Nyqq53X6eZmLkcIfCowvy"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                },
+                "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                "id": "673wiBE4JqZA36MViFNwXx",
+                "name": "Jonah Wisneski",
+                "type": "artist",
+                "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 235333,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "ushm91149911"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/3vkSJWMZLFqTCKlsQYMl2k"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3vkSJWMZLFqTCKlsQYMl2k",
+            "id": "3vkSJWMZLFqTCKlsQYMl2k",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Route 6",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/03bae28558d0e925dc3240c6276097c5fdddc20f?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:3vkSJWMZLFqTCKlsQYMl2k"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-07-10T04:34:29Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/5Nyqq53X6eZmLkcIfCowvy"
+              },
+              "href": "https://api.spotify.com/v1/albums/5Nyqq53X6eZmLkcIfCowvy",
+              "id": "5Nyqq53X6eZmLkcIfCowvy",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f5852079884dbef93d5336ca",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f5852079884dbef93d5336ca",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851f5852079884dbef93d5336ca",
+                  "width": 64
+                }
+              ],
+              "name": "Lights",
+              "release_date": "2011-10-18",
+              "release_date_precision": "day",
+              "total_tracks": 9,
+              "type": "album",
+              "uri": "spotify:album:5Nyqq53X6eZmLkcIfCowvy"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                },
+                "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                "id": "673wiBE4JqZA36MViFNwXx",
+                "name": "Jonah Wisneski",
+                "type": "artist",
+                "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 217106,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "ushm91149912"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/6LeSh4Ljc8QcMDo1qBTrqy"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6LeSh4Ljc8QcMDo1qBTrqy",
+            "id": "6LeSh4Ljc8QcMDo1qBTrqy",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Grant Me Patience",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/7576f3ce019485b8b9c7f21fd2d4cdcde359d9ed?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:6LeSh4Ljc8QcMDo1qBTrqy"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-09-07T04:05:39Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/1245009905"
+            },
+            "href": "https://api.spotify.com/v1/users/1245009905",
+            "id": "1245009905",
+            "type": "user",
+            "uri": "spotify:user:1245009905"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6eq4P2NtmH90rpSje0wibf"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/6eq4P2NtmH90rpSje0wibf",
+                  "id": "6eq4P2NtmH90rpSje0wibf",
+                  "name": "Caitlin Cannon",
+                  "type": "artist",
+                  "uri": "spotify:artist:6eq4P2NtmH90rpSje0wibf"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/2GSsIOJGiEdsDXLKchhGmW"
+              },
+              "href": "https://api.spotify.com/v1/albums/2GSsIOJGiEdsDXLKchhGmW",
+              "id": "2GSsIOJGiEdsDXLKchhGmW",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2737087c4455df9c2fc05e2a06e",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e027087c4455df9c2fc05e2a06e",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048517087c4455df9c2fc05e2a06e",
+                  "width": 64
+                }
+              ],
+              "name": "Toolbag",
+              "release_date": "2019-08-16",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:2GSsIOJGiEdsDXLKchhGmW"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6eq4P2NtmH90rpSje0wibf"
+                },
+                "href": "https://api.spotify.com/v1/artists/6eq4P2NtmH90rpSje0wibf",
+                "id": "6eq4P2NtmH90rpSje0wibf",
+                "name": "Caitlin Cannon",
+                "type": "artist",
+                "uri": "spotify:artist:6eq4P2NtmH90rpSje0wibf"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 151853,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "QM6P41965212"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/0Sx5HNZ5UbSrKWEHYG2LQ5"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0Sx5HNZ5UbSrKWEHYG2LQ5",
+            "id": "0Sx5HNZ5UbSrKWEHYG2LQ5",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Toolbag",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/3fa0d998152e3062441e31f753d4e14d76e308ea?cid=774b29d4f13844c495f206cafdad9c86",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0Sx5HNZ5UbSrKWEHYG2LQ5"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        }
+      ],
+      "limit": 100,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total": 18
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:24qeMQk4FpwEqxzMY8PEhy"
+  }
