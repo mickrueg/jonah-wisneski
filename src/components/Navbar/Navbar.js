@@ -28,7 +28,9 @@ const Navbar = () => {
         <div className='Navbar-main'>
             <div className={navBarContainer}>
                 <div className='nav-text'>
-                    <h1>JONAH WISNESKI</h1>
+                    <Link to="/" className='jonah-wisneski-title'>
+                        <h1>JONAH WISNESKI</h1>
+                    </Link>
                 </div>
                 <div className='mobile-icon-container'>
                     <div className='mobile-icon' onClick={()=>openMenu()}>

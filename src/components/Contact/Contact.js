@@ -1,6 +1,8 @@
 import React from 'react';
 import "./Contact.css"
 import shoutoutColorado from '../../images/shoutoutColorado.png'
+import virtualLessons from '../../images/virtualLessons.png'
+import karenCohen from '../../images/karenCohen.png'
 
 const logoSize = 50;
 
@@ -9,11 +11,12 @@ const Contact = () => {
         <div className='Contact-main'>
             <div className='Contact-container'>
                 <div className='whitespace'></div>
-                <div className='Contact-image-container'><h6>Jonah Wisneski</h6></div>
+                
+                <div className='Contact-image-container'><h6>Cervantes Masterpiece Ballroom</h6></div>
                 <div className='Contact-text'>
                     <h2>CONTACT</h2>
                 <div className='Music-intro-text'>
-                    <h5>Please reach out for sessions/tours, lessons or other inquiries via email, phone or direct message on socials.</h5>
+                    <h5>Seeking sessions/tours, lessons and open to other inquiries. Please email or send direct message via socials below.</h5>
                 </div>
                     <div className='Contact-links'>
                         <h4>DIRECT</h4>
@@ -35,13 +38,17 @@ const Contact = () => {
                     </div>
                     <div className='Contact-links'>
                         <h4>MENTIONS</h4>
-                        <h5 className='mentions-date'>May 25, 2021</h5>
+                        <h5 className='mentions-date'>Shoutout Colorado - May 25, 2021</h5>
                         <a href='https://shoutoutcolorado.com/meet-jonah-wisneski-professional-musician-singer-songwriter-producer-musical-director/' target="_blank" rel="noopener noreferrer">
                             <img className='mentions-image' src={shoutoutColorado} alt="Shoutout Colorado Article about Jonah Wisneski"/>
                         </a>
-                        <h5 className='mentions-date'>February 23, 2021</h5>
-                        <a href='https://shoutoutcolorado.com/meet-jonah-wisneski-professional-musician-singer-songwriter-producer-musical-director/' target="_blank" rel="noopener noreferrer">
-                            <img className='mentions-image' src={shoutoutColorado} alt="Shoutout Colorado Article about Jonah Wisneski"/>
+                        <h5 className='mentions-date'>Virtual Lessons for Actual Change - February 23, 2021</h5>
+                        <a href='https://www.virtuallessonsforactualchange.com/jonah-wisneski' target="_blank" rel="noopener noreferrer">
+                            <img className='mentions-image' src={virtualLessons} alt="Virtual Lessons for Actual Change Article about Jonah Wisneski"/>
+                        </a>
+                        <h5 className='mentions-date'>Karen Cohen - July 9, 2020</h5>
+                        <a href='https://www.kirstencohenphotography.com/uncategorized/giving-local-musicians-some-love-jonah-wisneski/' target="_blank" rel="noopener noreferrer">
+                            <img className='mentions-image' src={karenCohen} alt="Karen Cohen photography Article about Jonah Wisneski"/>
                         </a>
                     </div>
                     <div className='whitespace'></div>
