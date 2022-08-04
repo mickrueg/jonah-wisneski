@@ -30,9 +30,10 @@ const Navbar = () => {
                 <div className='nav-text'>
                     <div className="topbarScroll" onClick={()=>{
                         document.getElementById('Music-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
-                        document.getElementById('Contact-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
-                        document.getElementById('Shows-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
-                        document.getElementById('Videos-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
+                        //onClick runs first scrollTo command but not the ones below. May need to create state for the current route in order to grab current ElementById
+                        // document.getElementById('Videos-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
+                        // document.getElementById('Contact-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
+                        // document.getElementById('Shows-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
                     }}></div>
                     <Link to="/" className='jonah-wisneski-title'>
                         <h1>JONAH WISNESKI</h1>
