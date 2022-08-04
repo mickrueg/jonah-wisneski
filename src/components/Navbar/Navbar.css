@@ -10,13 +10,22 @@
 .Navbar-container{
     position: fixed;
     width: 100%;
-    padding: 8px;
+    padding-top: 8px;
     padding-bottom: 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: flex-end;
     z-index: 10;
+}
+
+.topbarScroll{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    height: 20px;
+    width: 100vw;
 }
 
 .nav-text{

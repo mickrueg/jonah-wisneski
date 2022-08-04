@@ -1,0 +1,48 @@
+.Shows-main{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    z-index: 0;
+    overflow-y: scroll;
+}
+
+.Shows-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+}
+
+.Shows-image-container{
+    width: 100vw;
+    height: 66vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../../images/liveShowBluePurple.jpg');
+    box-sizing: border-box;
+    box-shadow: inset 0 0 60px 35px black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+    align-content: flex-end;
+}
+
+.Shows-text{
+    width: 93%;
+
+}
+
+.google-calendar{
+    margin-top: 10px;
+    border-radius: 5px;
+    border: solid;
+    border-width:0;
+    width: 90%;
+    height: 500px;
+
+}

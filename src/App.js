@@ -4,6 +4,8 @@ import Music from "./components/Music/Music";
 import Navbar from "./components/Navbar/Navbar";
 import { Route, Routes, Link } from "react-router-dom";
 import Contact from "./components/Contact/Contact";
+import Shows from "./components/Shows/Shows";
+import Videos from "./components/Videos/Videos";
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
       <Routes>   
         <Route path="/*" element={<Music />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/shows" element={<Shows />} />
+        <Route path="/videos" element={<Videos />} />
       </Routes>
     </div>
   );

@@ -1,17 +1,16 @@
 import React from 'react';
-import "./Contact.css"
-import shoutoutColorado from '../../images/shoutoutColorado.png'
-import virtualLessons from '../../images/virtualLessons.png'
-import karenCohen from '../../images/karenCohen.png'
+import "./Contact.css";
+import shoutoutColorado from '../../images/shoutoutColorado.png';
+import virtualLessons from '../../images/virtualLessons.png';
+import karenCohen from '../../images/karenCohen.png';
 
 const logoSize = 50;
 
 const Contact = () => {
     return (
-        <div className='Contact-main'>
+        <div className='Contact-main' id='Contact-main'>
             <div className='Contact-container'>
                 <div className='whitespace'></div>
-                
                 <div className='Contact-image-container'><h6>Cervantes Masterpiece Ballroom</h6></div>
                 <div className='Contact-text'>
                     <h2>CONTACT</h2>
