@@ -10,6 +10,7 @@ const Navbar = () => {
     const [mobileIconHamburger, setMobileIconHamburger] = useState('mobile-icon')
     const [mobileIconX, setMobileIconX] = useState('mobile-icon hide')
     const [navBarContainer, setNavBarContainer] = useState('Navbar-container backdrop')
+    const [extraSpace, setExtraSpace] = useState('extraspace.large')
 
     const openMenu = () =>{
         (mobileMenu==='mobile-menu-container'? setMobileMenu('mobile-menu-container open') : setMobileMenu('mobile-menu-container'))
@@ -17,10 +18,12 @@ const Navbar = () => {
             setMobileIconHamburger('mobile-icon hide')
             setMobileIconX('mobile-icon')
             setNavBarContainer('Navbar-container backdropped')
+            setExtraSpace('extraSpace.large')
         }else{
             setMobileIconHamburger('mobile-icon')
             setMobileIconX('mobile-icon hide')
             setNavBarContainer('Navbar-container backdrop')
+            setExtraSpace('extraSpace.small')
         }
     }
 
@@ -36,7 +39,7 @@ const Navbar = () => {
                         // document.getElementById('Shows-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
                     }}></div>
                     <Link to="/" className='jonah-wisneski-title'>
-                        <h1>JONAH WISNESKI</h1>
+                        <h1>JONAH <br></br>WISNESKI</h1>
                     </Link>
                 </div>
                 <div className='mobile-icon-container'>
@@ -54,10 +57,13 @@ const Navbar = () => {
                 <div className='whitespace'></div>
                 <ul className='mobile-menu-items'>
                     <div className='mobile-menu-item'>
-                        <Link className='mobile-menu-text' to="/" onClick={()=>openMenu()}><h2>MUSIC</h2></Link>
+                        <Link className='mobile-menu-text' to="/contact" onClick={()=>openMenu()}><h2>CONTACT</h2></Link>
                     </div>
                     <div className='mobile-menu-item'>
-                        <Link className='mobile-menu-text' to="/contact" onClick={()=>openMenu()}><h2>CONTACT</h2></Link>
+                        <Link className='mobile-menu-text' to="/bio" onClick={()=>openMenu()}><h2>BIO</h2></Link>
+                    </div>
+                    <div className='mobile-menu-item'>
+                        <Link className='mobile-menu-text' to="/music" onClick={()=>openMenu()}><h2>MUSIC</h2></Link>
                     </div>
                     <div className='mobile-menu-item'>
                         <Link className='mobile-menu-text' to="/shows" onClick={()=>openMenu()}><h2>SHOWS</h2></Link>
@@ -66,16 +72,7 @@ const Navbar = () => {
                         <Link className='mobile-menu-text' to="/videos" onClick={()=>openMenu()}><h2>VIDEOS</h2></Link>
                     </div>
                     <div className='mobile-menu-item'>
-                        <a href="https://otherworldsmusic.com/" target="_blank" rel="noopener noreferrer">
-                            <li className='mobile-menu-text'><h2><u>OTHER
-                            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" className="other-worlds-link" viewBox="0 0 16 16">
-                                <path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/>
-                                <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z"/>
-                            </svg>
-                                <br></br>WORLDS
-                            </u></h2>
-                            </li>
-                        </a>
+                        <Link className='mobile-menu-text' to="/videos" onClick={()=>openMenu()}><h2>REMOTE <br></br>RECORDING</h2></Link>
                     </div>
                 </ul>
                 <div className='whitespace'></div>

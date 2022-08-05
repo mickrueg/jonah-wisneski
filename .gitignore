@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/lost_code
 
 # testing
 /coverage

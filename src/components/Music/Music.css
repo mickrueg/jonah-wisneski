@@ -18,14 +18,10 @@
     align-content: flex-start;
 }
 
-.Music-intro-text{
-    width: 93%;
-}
 
 .Music-image-container{
     width: 100vw;
     height: 66vw;
-    /* height: 500px; */
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url('../../images/concertAudienceOrange.jpg');

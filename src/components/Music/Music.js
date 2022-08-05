@@ -57,14 +57,7 @@ const Music = () => {
         <div className='Music-main' id='Music-main'>
             <div className='Music-container'>
                 <div className='whitespace'></div>
-                <div className='Music-intro-text'>
-                    <h5>Denver-based guitarist, singer/songwriter, <br></br>
-                        producer, musical director, and teacher.<br></br>
-                        Performing and recording under my own<br></br>
-                        name/group; and with <b>King Cardinal, <br></br>
-                        Other Worlds, Brianna Straut, <br></br>
-                        Hunter Stone, </b>and others.</h5>
-                </div>
+
                 <div className='Music-image-container'>
                     <div className='Music-image-text'><h6>Cervantes Masterpiece Ballroom</h6></div>
                 </div>
