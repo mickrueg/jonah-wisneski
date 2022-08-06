@@ -6,9 +6,11 @@ const Shows = () => {
         <div className='Shows-main' id='Shows-main'>
             <div className='Shows-container'>
                 <div className='whitespace'></div>
-                <div className='Shows-image-container'><h6>Cervantes Masterpiece Ballroom</h6></div>
-                <div className='Shows-text'>
-                    <h2>SHOWS</h2>
+                <div className='left-side'>
+                    <div className='Shows-image-container'><h6>Cervantes Masterpiece Ballroom</h6></div>
+                    <div className='Shows-text'>
+                        <h2>SHOWS</h2>
+                    </div>
                 </div>
                 <iframe 
                 className='google-calendar'

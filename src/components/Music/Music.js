@@ -57,17 +57,18 @@ const Music = () => {
         <div className='Music-main' id='Music-main'>
             <div className='Music-container'>
                 <div className='whitespace'></div>
-
-                <div className='Music-image-container'>
-                    <div className='Music-image-text'><h6>Cervantes Masterpiece Ballroom</h6></div>
+                <div className='left-side'>
+                    <div className='Music-image-container'>
+                        <div className='Music-image-text'><h6>Cervantes Masterpiece Ballroom</h6></div>
+                    </div>
                 </div>
                 <div className='Music-section'>
+                    <div className='whitespaceDesktop'></div>
                     <h2>MUSIC</h2>
                     <h4>WRITTEN &nbsp;|&nbsp; PERFORMED &nbsp;|&nbsp; OR &nbsp;PRODUCED</h4>
                     {songList}
                     <div className='whitespace'></div>
                 </div>
-                
             </div>
         </div>
     );
