@@ -49,7 +49,7 @@ const Navbar = () => {
 
     
 
-    const openMenu = () =>{
+    const openOrCloseMenu = () =>{
         (mobileMenu==='mobile-menu-container'? setMobileMenu('mobile-menu-container open') : setMobileMenu('mobile-menu-container'))
         if(mobileIconHamburger==='mobile-icon'){
             setMobileIconHamburger('mobile-icon hide')
@@ -62,6 +62,14 @@ const Navbar = () => {
             setNavBarContainer('Navbar-container backdrop')
         }
     }
+    const closeMenu = () =>{
+        setMobileMenu('mobile-menu-container')
+        setMobileIconHamburger('mobile-icon')
+        setMobileIconX('mobile-icon hide')
+        setNavBarContainer('Navbar-container backdrop')
+    }
+
+    
 
     return (
         <div className='Navbar-main'>
@@ -76,13 +84,13 @@ const Navbar = () => {
                     }}></div>
                     <Link to="/contact" className='jonah-wisneski-title' onClick={()=>{
                             setRouteSelected('contact')
-                            openMenu()
+                            closeMenu()
                             }}>
                         <h1>JONAH <br></br>WISNESKI</h1>
                     </Link>
                 </div>
                 <div className='mobile-icon-container'>
-                    <div className='mobile-icon' onClick={()=>openMenu()}>
+                    <div className='mobile-icon' onClick={()=>openOrCloseMenu()}>
                         <svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" fill="currentColor" viewBox="0 0 16 16" className={mobileIconHamburger}>
                             <path fillRule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
                         </svg>
@@ -98,31 +106,31 @@ const Navbar = () => {
                     <div className={`mobile-menu-item ${contact}`}>
                         <Link className='mobile-menu-text' to="/contact" onClick={()=>{
                             setRouteSelected('contact')
-                            openMenu()
+                            openOrCloseMenu()
                             }}><h2>CONTACT</h2></Link>
                     </div>
                     <div className={`mobile-menu-item ${music}`}>
                         <Link className='mobile-menu-text'to="/music" onClick={()=>{
                             setRouteSelected('music')
-                            openMenu()
+                            openOrCloseMenu()
                             }}><h2>MUSIC</h2></Link>
                     </div>
                     <div className={`mobile-menu-item ${shows}`}>
                         <Link className='mobile-menu-text' to="/shows" onClick={()=>{
                             setRouteSelected('shows')
-                            openMenu()
+                            openOrCloseMenu()
                             }}><h2>SHOWS</h2></Link>
                     </div>
                     <div className={`mobile-menu-item ${videos}`}>
                         <Link className='mobile-menu-text' to="/videos" onClick={()=>{
                             setRouteSelected('videos')
-                            openMenu()
+                            openOrCloseMenu()
                             }}><h2>VIDEOS</h2></Link>
                     </div>
                     <div className={`mobile-menu-item ${remoteRecording}`}>
                         <Link className='mobile-menu-text' to="/videos" onClick={()=>{
                             setRouteSelected('remoteRecording')
-                            openMenu()
+                            openOrCloseMenu()
                             }}><h2>REMOTE <br></br>RECORDING</h2></Link>
                     </div>
                 </ul>
