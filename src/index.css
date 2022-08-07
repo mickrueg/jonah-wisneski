@@ -95,6 +95,8 @@ a{
 }
 
 
+
+
 @media screen and (min-width: 850px) {
   .left-side{
     grid-row: 3;
