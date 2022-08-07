@@ -19,8 +19,8 @@ const Videos = () => {
         let videoClassName;
         let watchingClassName;
         if(index===videoIndex){
-            videoClassName = 'youtube-thumbnail selected' 
-            watchingClassName = 'watching-text selected';
+            videoClassName = 'youtube-thumbnail vidSelected' 
+            watchingClassName = 'watching-text vidSelected';
         } else {
             videoClassName = 'youtube-thumbnail'
             watchingClassName = 'watching-text';
@@ -38,21 +38,25 @@ const Videos = () => {
         <div className='Videos-main' id="Videos-main">
             <div className='Videos-container'>
                 <div className='whitespace'></div>
-                <iframe 
-                className='youtube-video'
-                src={`https://www.youtube.com/embed/${videoSelected}`} 
-                title={videoTitle}
-                frameBorder="0" 
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                allowFullScreen
-                ></iframe>
-                <div className='Videos-text'>
-                    <h2>VIDEOS</h2>
+                <div className='left-side'>
+                    <iframe 
+                    className='youtube-video'
+                    src={`https://www.youtube.com/embed/${videoSelected}`} 
+                    title={videoTitle}
+                    frameBorder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowFullScreen
+                    ></iframe>
                 </div>
-                <div className='Videos-container-selection'>
-                    {youtubeList}
+                <div className='Videos-right-side'>
+                    <div className='Videos-text'>
+                        <h2>VIDEOS</h2>
+                    </div>
+                    <div className='Videos-container-selection'>
+                        {youtubeList}
+                    </div>
+                    <div className='whitespace' ></div>
                 </div>
-                <div className='whitespace' ></div>
             </div>
         </div>
     );
