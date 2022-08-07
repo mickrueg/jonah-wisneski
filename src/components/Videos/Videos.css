@@ -42,6 +42,11 @@
     height: 300px;
 }
 
+.Videos-right-side{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 .Videos-container-selection{
     display: flex;
@@ -187,7 +192,7 @@
     .watching-text.vidSelected{
         opacity: 1;
         transition: 500ms ease;
-
+    
     }
         
 }

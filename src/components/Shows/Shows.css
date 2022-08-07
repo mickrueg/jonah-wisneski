@@ -32,6 +32,12 @@
     align-content: flex-end;
 }
 
+.right-side{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .Shows-text{
     width: 93%;
 
@@ -77,6 +83,7 @@
         /* margin-top: 10%; */
         grid-row: 3 / span 2;
         grid-column: 3;
+        display: block;
         
     }
     
