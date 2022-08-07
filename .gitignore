@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /lost_code
+/promo_material
 
 # testing
 /coverage

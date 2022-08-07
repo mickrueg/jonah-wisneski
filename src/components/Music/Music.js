@@ -1,6 +1,6 @@
 import React from 'react';
 import SpotifyAxios from './Spotify'
-import './Music.css';
+// import './Music.css';
 import links from './Links.json'
 
 // To refresh music data from Spotify, do the following

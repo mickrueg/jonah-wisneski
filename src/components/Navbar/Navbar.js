@@ -23,7 +23,7 @@ const Navbar = () => {
                 setContact('selected')
                 setMusic(''); setShows(''); setVideos(''); setRemoteRecording('')
                 break;
-                case 'music':
+                case 'music2':
                     setMusic('selected')
                     setContact(''); setShows(''); setVideos(''); setRemoteRecording('')
                 break;
@@ -108,8 +108,8 @@ const Navbar = () => {
                             }}><h2>CONTACT</h2></Link>
                     </div>
                     <div className={`mobile-menu-item ${music}`}>
-                        <Link className='mobile-menu-text'to="/music" onClick={()=>{
-                            setRouteSelected('music')
+                        <Link className='mobile-menu-text'to="/music2" onClick={()=>{
+                            setRouteSelected('music2')
                             openOrCloseMenu()
                             }}><h2>MUSIC</h2></Link>
                     </div>

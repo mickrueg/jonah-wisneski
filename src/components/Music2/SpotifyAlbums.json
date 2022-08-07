@@ -1,0 +1,956 @@
+[
+    {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+            },
+            "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+            "id": "4sZvnUVZpKVIolaMDEQZ62",
+            "name": "King Cardinal",
+            "type": "artist",
+            "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+          }
+        ],
+        "copyrights": [
+          {
+            "text": "2022 King Cardinal",
+            "type": "C"
+          },
+          {
+            "text": "2022 King Cardinal",
+            "type": "P"
+          }
+        ],
+        "external_ids": {
+          "upc": "196697820899"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7DZSYtH5e1mb1Z6K2Dei9z"
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/albums/7DZSYtH5e1mb1Z6K2Dei9z",
+        "id": "7DZSYtH5e1mb1Z6K2Dei9z",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2739c9c541bfe30cd04db840516",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e029c9c541bfe30cd04db840516",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048519c9c541bfe30cd04db840516",
+            "width": 64
+          }
+        ],
+        "label": "King Cardinal",
+        "name": "Runaway",
+        "popularity": 3,
+        "release_date": "2022-03-02",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "tracks": {
+          "href": "https://api.spotify.com/v1/albums/7DZSYtH5e1mb1Z6K2Dei9z/tracks?offset=0&limit=50&market=US&locale=en-US,en;q=0.9",
+          "items": [
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                  "id": "4sZvnUVZpKVIolaMDEQZ62",
+                  "name": "King Cardinal",
+                  "type": "artist",
+                  "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 308061,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/2NHB0nZjIOYuAPn1fbqBKm"
+              },
+              "href": "https://api.spotify.com/v1/tracks/2NHB0nZjIOYuAPn1fbqBKm",
+              "id": "2NHB0nZjIOYuAPn1fbqBKm",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Runaway",
+              "preview_url": "https://p.scdn.co/mp3-preview/9cd5897fabf3f3065a818afb9986cff72619248e?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:2NHB0nZjIOYuAPn1fbqBKm"
+            }
+          ],
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 1
+        },
+        "type": "album",
+        "uri": "spotify:album:7DZSYtH5e1mb1Z6K2Dei9z"
+    },
+    {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+            },
+            "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+            "id": "4sZvnUVZpKVIolaMDEQZ62",
+            "name": "King Cardinal",
+            "type": "artist",
+            "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+          }
+        ],
+        "copyrights": [
+          {
+            "text": "2022 King Cardinal",
+            "type": "C"
+          },
+          {
+            "text": "2022 King Cardinal",
+            "type": "P"
+          }
+        ],
+        "external_ids": {
+          "upc": "196864616386"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6W2Nyy8pOFIWWlzMk7L3VD"
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/albums/6W2Nyy8pOFIWWlzMk7L3VD",
+        "id": "6W2Nyy8pOFIWWlzMk7L3VD",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27384538a06f3ed816a1d61a362",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0284538a06f3ed816a1d61a362",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485184538a06f3ed816a1d61a362",
+            "width": 64
+          }
+        ],
+        "label": "King Cardinal",
+        "name": "In Tall Buildings",
+        "popularity": 7,
+        "release_date": "2022-06-08",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "tracks": {
+          "href": "https://api.spotify.com/v1/albums/6W2Nyy8pOFIWWlzMk7L3VD/tracks?offset=0&limit=50&market=US&locale=en-US,en;q=0.9",
+          "items": [
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                  "id": "4sZvnUVZpKVIolaMDEQZ62",
+                  "name": "King Cardinal",
+                  "type": "artist",
+                  "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 233572,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/7n1k3EbLU8C1GK3iRI5k5Y"
+              },
+              "href": "https://api.spotify.com/v1/tracks/7n1k3EbLU8C1GK3iRI5k5Y",
+              "id": "7n1k3EbLU8C1GK3iRI5k5Y",
+              "is_local": false,
+              "is_playable": true,
+              "name": "In Tall Buildings",
+              "preview_url": "https://p.scdn.co/mp3-preview/faa89c406ea3f2f3d5c8573571efda6b25909fb4?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:7n1k3EbLU8C1GK3iRI5k5Y"
+            }
+          ],
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 1
+        },
+        "type": "album",
+        "uri": "spotify:album:6W2Nyy8pOFIWWlzMk7L3VD"
+    },
+    {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+            },
+            "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+            "id": "4sZvnUVZpKVIolaMDEQZ62",
+            "name": "King Cardinal",
+            "type": "artist",
+            "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+          }
+        ],
+        "copyrights": [
+          {
+            "text": "2020 King Cardinal",
+            "type": "C"
+          },
+          {
+            "text": "2020 King Cardinal",
+            "type": "P"
+          }
+        ],
+        "external_ids": {
+          "upc": "195448012910"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0cujArpTIvSsveM2v9FPO6"
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/albums/0cujArpTIvSsveM2v9FPO6",
+        "id": "0cujArpTIvSsveM2v9FPO6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738516ddf6fd429265e7aebe97",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028516ddf6fd429265e7aebe97",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518516ddf6fd429265e7aebe97",
+            "width": 64
+          }
+        ],
+        "label": "King Cardinal",
+        "name": "Bluebird Day",
+        "popularity": 4,
+        "release_date": "2020-08-07",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "tracks": {
+          "href": "https://api.spotify.com/v1/albums/0cujArpTIvSsveM2v9FPO6/tracks?offset=0&limit=50&market=US&locale=en-US,en;q=0.9",
+          "items": [
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4sZvnUVZpKVIolaMDEQZ62"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/4sZvnUVZpKVIolaMDEQZ62",
+                  "id": "4sZvnUVZpKVIolaMDEQZ62",
+                  "name": "King Cardinal",
+                  "type": "artist",
+                  "uri": "spotify:artist:4sZvnUVZpKVIolaMDEQZ62"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 210856,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/0neYzSx0BzYIMXnrjhFVV4"
+              },
+              "href": "https://api.spotify.com/v1/tracks/0neYzSx0BzYIMXnrjhFVV4",
+              "id": "0neYzSx0BzYIMXnrjhFVV4",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Bluebird Day",
+              "preview_url": "https://p.scdn.co/mp3-preview/e032cda378035171e46833531f1b90d432aa0ea2?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:0neYzSx0BzYIMXnrjhFVV4"
+            }
+          ],
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 1
+        },
+        "type": "album",
+        "uri": "spotify:album:0cujArpTIvSsveM2v9FPO6"
+      },
+    {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+            },
+            "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+            "id": "22PEAcONaGzOfEE6HkHjYe",
+            "name": "Other Worlds",
+            "type": "artist",
+            "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+          }
+        ],
+        "copyrights": [
+          {
+            "text": "2016 HiBoysRecords",
+            "type": "C"
+          },
+          {
+            "text": "2016 HiBoysRecords",
+            "type": "P"
+          }
+        ],
+        "external_ids": {
+          "upc": "872132141001"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4Lqc7X9O6X7gcXlkwsKKD7"
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/albums/4Lqc7X9O6X7gcXlkwsKKD7",
+        "id": "4Lqc7X9O6X7gcXlkwsKKD7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273dd2f420292d0f9cc45d75f75",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02dd2f420292d0f9cc45d75f75",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851dd2f420292d0f9cc45d75f75",
+            "width": 64
+          }
+        ],
+        "label": "HiBoysRecords",
+        "name": "Weather Patterns",
+        "popularity": 0,
+        "release_date": "2016-05-06",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "tracks": {
+          "href": "https://api.spotify.com/v1/albums/4Lqc7X9O6X7gcXlkwsKKD7/tracks?offset=0&limit=50&market=US&locale=en-US,en;q=0.9",
+          "items": [
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 353515,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/25KAsTixsgfILlJvbJ2MRJ"
+              },
+              "href": "https://api.spotify.com/v1/tracks/25KAsTixsgfILlJvbJ2MRJ",
+              "id": "25KAsTixsgfILlJvbJ2MRJ",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Visuals",
+              "preview_url": "https://p.scdn.co/mp3-preview/3507aad1dc198f197099590381652961c7abc96f?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:25KAsTixsgfILlJvbJ2MRJ"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 330109,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/2X7tVVi6czV2h9jH510LwY"
+              },
+              "href": "https://api.spotify.com/v1/tracks/2X7tVVi6czV2h9jH510LwY",
+              "id": "2X7tVVi6czV2h9jH510LwY",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Sandfly",
+              "preview_url": "https://p.scdn.co/mp3-preview/8993e872817efc634d9a2155709f99a830635e96?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 2,
+              "type": "track",
+              "uri": "spotify:track:2X7tVVi6czV2h9jH510LwY"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 324989,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/4HEOQX74QPglrbNUDfrcF6"
+              },
+              "href": "https://api.spotify.com/v1/tracks/4HEOQX74QPglrbNUDfrcF6",
+              "id": "4HEOQX74QPglrbNUDfrcF6",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Strangely Familiar",
+              "preview_url": "https://p.scdn.co/mp3-preview/4f9d093dd9c17f51c29f36e3a619ff43c637ebbd?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 3,
+              "type": "track",
+              "uri": "spotify:track:4HEOQX74QPglrbNUDfrcF6"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 308583,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/0NLKew8yxFojE6cwpDHcSY"
+              },
+              "href": "https://api.spotify.com/v1/tracks/0NLKew8yxFojE6cwpDHcSY",
+              "id": "0NLKew8yxFojE6cwpDHcSY",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Morning Song (Home)",
+              "preview_url": "https://p.scdn.co/mp3-preview/9fd405ffa369f0d7ffe34cbe46c76c2ef107c1cc?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 4,
+              "type": "track",
+              "uri": "spotify:track:0NLKew8yxFojE6cwpDHcSY"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 110183,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/74dLZmuOzGWSd2V9H2a54A"
+              },
+              "href": "https://api.spotify.com/v1/tracks/74dLZmuOzGWSd2V9H2a54A",
+              "id": "74dLZmuOzGWSd2V9H2a54A",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Weather Patterns",
+              "preview_url": "https://p.scdn.co/mp3-preview/103ce3e0e84c5f1f7dd9a817602a49edbc3d9e2a?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 5,
+              "type": "track",
+              "uri": "spotify:track:74dLZmuOzGWSd2V9H2a54A"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 270785,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/0OMnOzVtILFCClYuryc8R0"
+              },
+              "href": "https://api.spotify.com/v1/tracks/0OMnOzVtILFCClYuryc8R0",
+              "id": "0OMnOzVtILFCClYuryc8R0",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Forgive Me",
+              "preview_url": "https://p.scdn.co/mp3-preview/2054e48105a555396cf3d963bf1ad53992e9d23d?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 6,
+              "type": "track",
+              "uri": "spotify:track:0OMnOzVtILFCClYuryc8R0"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 300225,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/53l06mQzqi0dn8E3Cbzh36"
+              },
+              "href": "https://api.spotify.com/v1/tracks/53l06mQzqi0dn8E3Cbzh36",
+              "id": "53l06mQzqi0dn8E3Cbzh36",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Save It for Another Day",
+              "preview_url": "https://p.scdn.co/mp3-preview/3d4a1b8cdc40a6890bdab1dc7c8c763798c935b8?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 7,
+              "type": "track",
+              "uri": "spotify:track:53l06mQzqi0dn8E3Cbzh36"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 272482,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/4nOrNkgfZlDvbiQTIshl72"
+              },
+              "href": "https://api.spotify.com/v1/tracks/4nOrNkgfZlDvbiQTIshl72",
+              "id": "4nOrNkgfZlDvbiQTIshl72",
+              "is_local": false,
+              "is_playable": true,
+              "name": "The Wayfarer",
+              "preview_url": "https://p.scdn.co/mp3-preview/064a1ec7d7fa927ddd188862df4eb151aef685c1?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 8,
+              "type": "track",
+              "uri": "spotify:track:4nOrNkgfZlDvbiQTIshl72"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/22PEAcONaGzOfEE6HkHjYe"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/22PEAcONaGzOfEE6HkHjYe",
+                  "id": "22PEAcONaGzOfEE6HkHjYe",
+                  "name": "Other Worlds",
+                  "type": "artist",
+                  "uri": "spotify:artist:22PEAcONaGzOfEE6HkHjYe"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 264698,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/7gvq1s53lmOct6i1cj3FVQ"
+              },
+              "href": "https://api.spotify.com/v1/tracks/7gvq1s53lmOct6i1cj3FVQ",
+              "id": "7gvq1s53lmOct6i1cj3FVQ",
+              "is_local": false,
+              "is_playable": true,
+              "name": "You're Only Worth What You Love",
+              "preview_url": "https://p.scdn.co/mp3-preview/c7328872b14bc49658ca091478dfde1454aaa641?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 9,
+              "type": "track",
+              "uri": "spotify:track:7gvq1s53lmOct6i1cj3FVQ"
+            }
+          ],
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 9
+        },
+        "type": "album",
+        "uri": "spotify:album:4Lqc7X9O6X7gcXlkwsKKD7"
+      },
+      {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+            },
+            "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+            "id": "673wiBE4JqZA36MViFNwXx",
+            "name": "Jonah Wisneski",
+            "type": "artist",
+            "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+          }
+        ],
+        "copyrights": [
+          {
+            "text": "2011 Jonah Wisneski",
+            "type": "C"
+          },
+          {
+            "text": "2011 Jonah Wisneski",
+            "type": "P"
+          }
+        ],
+        "external_ids": {
+          "upc": "885767960176"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5Nyqq53X6eZmLkcIfCowvy"
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/albums/5Nyqq53X6eZmLkcIfCowvy",
+        "id": "5Nyqq53X6eZmLkcIfCowvy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f5852079884dbef93d5336ca",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f5852079884dbef93d5336ca",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f5852079884dbef93d5336ca",
+            "width": 64
+          }
+        ],
+        "label": "Jonah Wisneski",
+        "name": "Lights",
+        "popularity": 0,
+        "release_date": "2011-10-18",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "tracks": {
+          "href": "https://api.spotify.com/v1/albums/5Nyqq53X6eZmLkcIfCowvy/tracks?offset=0&limit=50&market=US&locale=en-US,en;q=0.9",
+          "items": [
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 235333,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/3vkSJWMZLFqTCKlsQYMl2k"
+              },
+              "href": "https://api.spotify.com/v1/tracks/3vkSJWMZLFqTCKlsQYMl2k",
+              "id": "3vkSJWMZLFqTCKlsQYMl2k",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Route 6",
+              "preview_url": "https://p.scdn.co/mp3-preview/03bae28558d0e925dc3240c6276097c5fdddc20f?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:3vkSJWMZLFqTCKlsQYMl2k"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 217106,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/6LeSh4Ljc8QcMDo1qBTrqy"
+              },
+              "href": "https://api.spotify.com/v1/tracks/6LeSh4Ljc8QcMDo1qBTrqy",
+              "id": "6LeSh4Ljc8QcMDo1qBTrqy",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Grant Me Patience",
+              "preview_url": "https://p.scdn.co/mp3-preview/7576f3ce019485b8b9c7f21fd2d4cdcde359d9ed?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 2,
+              "type": "track",
+              "uri": "spotify:track:6LeSh4Ljc8QcMDo1qBTrqy"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 254640,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/7AGLuYgpgH3YggTev73KZn"
+              },
+              "href": "https://api.spotify.com/v1/tracks/7AGLuYgpgH3YggTev73KZn",
+              "id": "7AGLuYgpgH3YggTev73KZn",
+              "is_local": false,
+              "is_playable": true,
+              "name": "October",
+              "preview_url": "https://p.scdn.co/mp3-preview/aa1698b0b7ae3840ca89ec11ba1a090b35e5ae20?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 3,
+              "type": "track",
+              "uri": "spotify:track:7AGLuYgpgH3YggTev73KZn"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 222400,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/7BU4KEnZGE7mY69zSQ2SAE"
+              },
+              "href": "https://api.spotify.com/v1/tracks/7BU4KEnZGE7mY69zSQ2SAE",
+              "id": "7BU4KEnZGE7mY69zSQ2SAE",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Lonesome Blues",
+              "preview_url": "https://p.scdn.co/mp3-preview/e10f76e17cd208da1cd644d643456161208b4324?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 4,
+              "type": "track",
+              "uri": "spotify:track:7BU4KEnZGE7mY69zSQ2SAE"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 392586,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/61nBuNfRUHHEhIAqykhEKb"
+              },
+              "href": "https://api.spotify.com/v1/tracks/61nBuNfRUHHEhIAqykhEKb",
+              "id": "61nBuNfRUHHEhIAqykhEKb",
+              "is_local": false,
+              "is_playable": true,
+              "name": "New Year's Song",
+              "preview_url": "https://p.scdn.co/mp3-preview/49a797a414cd92ee50990257756a9a272675b2ba?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 5,
+              "type": "track",
+              "uri": "spotify:track:61nBuNfRUHHEhIAqykhEKb"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 215960,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/5wpdIhGSDbrXCsXg0V5pB5"
+              },
+              "href": "https://api.spotify.com/v1/tracks/5wpdIhGSDbrXCsXg0V5pB5",
+              "id": "5wpdIhGSDbrXCsXg0V5pB5",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Riverboat Queen",
+              "preview_url": "https://p.scdn.co/mp3-preview/3d96698387c6aea5f92170f83356c4cc7a54343d?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 6,
+              "type": "track",
+              "uri": "spotify:track:5wpdIhGSDbrXCsXg0V5pB5"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 276346,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/7kqsYlFZJkESKZssTkNtTr"
+              },
+              "href": "https://api.spotify.com/v1/tracks/7kqsYlFZJkESKZssTkNtTr",
+              "id": "7kqsYlFZJkESKZssTkNtTr",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Runaround",
+              "preview_url": "https://p.scdn.co/mp3-preview/98b1dc6c6a8e9ffe22f1175b6e6ec89b93e37e7b?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 7,
+              "type": "track",
+              "uri": "spotify:track:7kqsYlFZJkESKZssTkNtTr"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 318520,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/5MH8pRyJJ9RsAy4WEBg54u"
+              },
+              "href": "https://api.spotify.com/v1/tracks/5MH8pRyJJ9RsAy4WEBg54u",
+              "id": "5MH8pRyJJ9RsAy4WEBg54u",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Of All the Things I've Lost, I Miss My Mind the Most",
+              "preview_url": "https://p.scdn.co/mp3-preview/d9074647c72c9662180cd1da80b381df97e9a8df?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 8,
+              "type": "track",
+              "uri": "spotify:track:5MH8pRyJJ9RsAy4WEBg54u"
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/673wiBE4JqZA36MViFNwXx"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/673wiBE4JqZA36MViFNwXx",
+                  "id": "673wiBE4JqZA36MViFNwXx",
+                  "name": "Jonah Wisneski",
+                  "type": "artist",
+                  "uri": "spotify:artist:673wiBE4JqZA36MViFNwXx"
+                }
+              ],
+              "disc_number": 1,
+              "duration_ms": 166280,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/6Si0vfNC47f6SUjQEX6gDj"
+              },
+              "href": "https://api.spotify.com/v1/tracks/6Si0vfNC47f6SUjQEX6gDj",
+              "id": "6Si0vfNC47f6SUjQEX6gDj",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Revival",
+              "preview_url": "https://p.scdn.co/mp3-preview/de929103d5699a3bac768755a000a56a3dcbedfd?cid=774b29d4f13844c495f206cafdad9c86",
+              "track_number": 9,
+              "type": "track",
+              "uri": "spotify:track:6Si0vfNC47f6SUjQEX6gDj"
+            }
+          ],
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 9
+        },
+        "type": "album",
+        "uri": "spotify:album:5Nyqq53X6eZmLkcIfCowvy"
+      }
+]

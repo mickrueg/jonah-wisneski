@@ -122,6 +122,10 @@
 
 
 @media screen and (min-width: 700px){
+    .Navbar-main{
+        height: 100px;
+    }
+    
     .nav-text{
         position: fixed;
         top:0;
