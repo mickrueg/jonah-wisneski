@@ -68,6 +68,7 @@ const Music = () => {
                     <h4>WRITTEN &nbsp;|&nbsp; PERFORMED &nbsp;|&nbsp; OR &nbsp;PRODUCED</h4>
                     {songList}
                     <div className='whitespace'></div>
+                    <div className='whitespaceDesktop'></div>
                 </div>
             </div>
         </div>

@@ -1,11 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap');
 
-html, body{
-  width: 100%;
-  height: 100%;
+/* Scrollbar changes*/
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: white;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8c867bf4;
+}
+
+
+
+body{
   margin: 0;
   padding: 0;
   background-color: black;
+  display: flex;
+}
+
+#root{
+  flex-grow: 1;
 }
 
 .App{
