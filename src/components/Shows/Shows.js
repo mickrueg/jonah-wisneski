@@ -1,5 +1,6 @@
 import React from 'react';
 import "./Shows.css";
+import BuiltBy from '../BuiltBy/BuiltBy';
 
 const Shows = () => {
     return (
@@ -21,6 +22,7 @@ const Shows = () => {
                     <div className='whitespace'></div>
                 </div>
             </div>
+            <BuiltBy />
         </div>
     );
 };

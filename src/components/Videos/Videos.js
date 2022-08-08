@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
+import BuiltBy from '../BuiltBy/BuiltBy';
 import "./Videos.css";
 import youtube from "./youtubeVideos.json"
 
@@ -58,6 +59,7 @@ const Videos = () => {
                     <div className='whitespace' ></div>
                 </div>
             </div>
+            <BuiltBy />
         </div>
     );
 };

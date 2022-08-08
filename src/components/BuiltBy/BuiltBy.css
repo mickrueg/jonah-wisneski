@@ -1,0 +1,25 @@
+.built-by{
+    font-size: 12px;
+    padding-bottom: 120px;
+    width: 100vw;
+    text-align: center;
+}
+
+  @media screen and (min-width: 850px) {
+    .built-by{
+        padding-bottom: 0;
+        width: auto;
+        /*  */
+        position: fixed;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: flex-end;
+        width: 100vw;
+        height: 100vh;
+        transform: rotate(-90deg) translate(100%, 0);
+        transform-origin: right bottom;
+        /* z-index: -1; */
+        padding-bottom: 20px;
+        padding-left: 30px;
+    }
+  }

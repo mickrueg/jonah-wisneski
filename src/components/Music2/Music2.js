@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import BuiltBy from '../BuiltBy/BuiltBy';
 import './Music2.css';
 import SpotifyAlbums from './SpotifyAlbums.json'
 
@@ -56,9 +57,12 @@ const Music2 = () => {
                         {albumCollection}
                     </div>
                     <div className='whitespace'></div>
+                    <div className='whitespace'></div>
+                    <div className='whitespace'></div>
                     <div className='whitespaceDesktop'></div>
                 </div>
             </div>
+            <BuiltBy />
         </div>
     );
 };

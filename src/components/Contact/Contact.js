@@ -1,5 +1,6 @@
 import React from 'react';
 import "./Contact.css";
+import BuiltBy from '../BuiltBy/BuiltBy';
 
 const logoSize = 50;
 
@@ -53,6 +54,7 @@ const Contact = () => {
                         <div className='whitespace'></div>
                         <div className='smallspace'></div>
             </div>
+            <BuiltBy />
         </div>
     );
 };
