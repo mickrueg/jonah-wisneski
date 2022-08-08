@@ -3,13 +3,13 @@
     padding-bottom: 120px;
     width: 100vw;
     text-align: center;
+    color: grey;
 }
 
   @media screen and (min-width: 850px) {
     .built-by{
         padding-bottom: 0;
         width: auto;
-        /*  */
         position: fixed;
         display: flex;
         flex-wrap: wrap;
