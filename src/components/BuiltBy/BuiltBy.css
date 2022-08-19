@@ -4,6 +4,7 @@
     width: 100vw;
     text-align: center;
     color: grey;
+    z-index: -1;
 }
 
   @media screen and (min-width: 850px) {

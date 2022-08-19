@@ -12,35 +12,43 @@ const Navbar = () => {
     const [routeSelected, setRouteSelected] = useState(urlPath)
 
     //Route Selection State
+    const [homepage, setHomepage] = useState()
     const [contact, setContact] = useState()
     const [music, setMusic] = useState()
     const [shows, setShows] = useState()
     const [videos, setVideos] = useState()
     const [remoteRecording, setRemoteRecording] = useState()
     useEffect(()=>{
+        function highlightSelection(pageSelected){
+            pageSelected==='homepage'? setHomepage('selected') : setHomepage('')
+            pageSelected==='contact'? setContact('selected') : setContact('')
+            pageSelected==='music2'? setMusic('selected') : setMusic('')
+            pageSelected==='shows'? setShows('selected') : setShows('')
+            pageSelected==='videos'? setVideos('selected') : setVideos('')
+            pageSelected==='remoteRecording'? setRemoteRecording('selected') : setRemoteRecording('')
+        }
+
         switch (routeSelected){
+            case 'homepage':
+                highlightSelection(routeSelected)
+                break;
             case 'contact':
-                setContact('selected')
-                setMusic(''); setShows(''); setVideos(''); setRemoteRecording('')
+                highlightSelection(routeSelected)
                 break;
-                case 'music2':
-                    setMusic('selected')
-                    setContact(''); setShows(''); setVideos(''); setRemoteRecording('')
+            case 'music2':
+                highlightSelection(routeSelected)
                 break;
-                case 'shows':
-                    setShows('selected')
-                    setContact(''); setMusic(''); setVideos(''); setRemoteRecording('')
+            case 'shows':
+                highlightSelection(routeSelected)
                 break;
-                case 'videos':
-                    setVideos('selected')
-                    setContact(''); setShows(''); setMusic(''); setRemoteRecording('')
+            case 'videos':
+                highlightSelection(routeSelected)
                 break;
-                case 'remoteRecording':
-                    setRemoteRecording('selected')
-                    setContact(''); setShows(''); setMusic(''); setVideos('')
+            case 'remoteRecording':
+                highlightSelection(routeSelected)
                 break;
             default:
-                setContact('selected')
+                setHomepage('selected')
                 
         }
     }, [routeSelected])
@@ -80,8 +88,8 @@ const Navbar = () => {
                         // document.getElementById('Contact-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
                         // document.getElementById('Shows-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
                     }}></div>
-                    <Link to="/contact" className='jonah-wisneski-title' onClick={()=>{
-                            setRouteSelected('contact')
+                    <Link to="/*" className='jonah-wisneski-title' onClick={()=>{
+                            setRouteSelected('homepage')
                             closeMenu()
                             }}>
                         <h1>JONAH <br></br>WISNESKI</h1>
@@ -101,11 +109,11 @@ const Navbar = () => {
             <div className={mobileMenu}>
                 <div className='whitespace'></div>
                 <ul className='mobile-menu-items'>
-                    <div className={`mobile-menu-item ${contact}`}>
-                        <Link className='mobile-menu-text' to="/contact" onClick={()=>{
-                            setRouteSelected('contact')
+                    <div className={`mobile-menu-item ${homepage}`}>
+                        <Link className='mobile-menu-text' to="/homepage" onClick={()=>{
+                            setRouteSelected('homepage')
                             openOrCloseMenu()
-                            }}><h2>CONTACT</h2></Link>
+                            }}><h2>HOMEPAGE</h2></Link>
                     </div>
                     <div className={`mobile-menu-item ${music}`}>
                         <Link className='mobile-menu-text'to="/music2" onClick={()=>{
@@ -129,8 +137,14 @@ const Navbar = () => {
                         <Link className='mobile-menu-text' to="/videos" onClick={()=>{
                             setRouteSelected('remoteRecording')
                             openOrCloseMenu()
-                            }}><h2>REMOTE <br></br>RECORDING</h2></Link>
+                        }}><h2>REMOTE <br></br>RECORDING</h2></Link>
                     </div> */}
+                    <div className={`mobile-menu-item ${contact}`}>
+                        <Link className='mobile-menu-text' to="/contact" onClick={()=>{
+                            setRouteSelected('contact')
+                            openOrCloseMenu()
+                            }}><h2>CONTACT</h2></Link>
+                    </div>
                 </ul>
                 <div className='whitespace'></div>
                 
