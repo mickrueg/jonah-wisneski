@@ -125,7 +125,7 @@ const Navbar = () => {
                         <Link className='mobile-menu-text' to="/shows" onClick={()=>{
                             setRouteSelected('shows')
                             openOrCloseMenu()
-                            }}><h2>SHOWS</h2></Link>
+                            }}><h2>LIVE</h2></Link>
                     </div>
                     <div className={`mobile-menu-item ${videos}`}>
                         <Link className='mobile-menu-text' to="/videos" onClick={()=>{

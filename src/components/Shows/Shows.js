@@ -12,7 +12,7 @@ const Shows = () => {
                 </div>
                 <div className='right-side'>
                     <div className='Shows-text'>
-                        <h2>SHOWS</h2>
+                        <h2>LIVE</h2>
                     </div>
                     <iframe 
                     className='google-calendar'
