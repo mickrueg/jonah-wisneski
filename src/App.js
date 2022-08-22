@@ -1,13 +1,13 @@
 // import { useContext, useEffect, useState } from 'react';
 
-import Music from "./components/Music/Music";
 import Navbar from "./components/Navbar/Navbar";
 import { Route, Routes, Link } from "react-router-dom";
 import Contact from "./components/Contact/Contact";
 import Shows from "./components/Shows/Shows";
 import Videos from "./components/Videos/Videos";
-import Music2 from "./components/Music2/Music2";
 import Homepage from "./components/Homepage/Homepage";
+import Music from "./components/Music/Music";
+import Recording from "./components/Recording/Recording";
 
 function App() {
   return (
@@ -16,9 +16,10 @@ function App() {
       <Routes>   
         <Route path="/*" element={<Homepage />} />
         <Route path="/contact" element={<Contact />} />
-        <Route path="/music2" element={<Music2 />} />
-        <Route path="/shows" element={<Shows />} />
+        <Route path="/music" element={<Music />} />
+        <Route path="/live" element={<Shows />} />
         <Route path="/videos" element={<Videos />} />
+        <Route path="/recording" element={<Recording />} />
       </Routes>
     </div>
   );

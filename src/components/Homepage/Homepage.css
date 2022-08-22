@@ -66,35 +66,49 @@
     height: 90px;
 }
 
+.desktop-break{
+    display: none;
+}
+
+.Homepage-links.twitter{
+    height: 350px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.latest-tweets{
+    margin-bottom: 10px;
+}
+
 @media screen and (min-width: 850px){
     .Homepage-container{
         display: grid;
         overflow-y: hidden;
         height: 100%;
         grid-template-rows: 120px .35fr 2fr 1fr;
-        grid-template-columns: .75fr 550px 300px 1fr;
+        grid-template-columns: .75fr 510px 400px 1fr;
     }
     
     .Homepage-container h5{
         font-size: 14px;
-
+        
     }
-
+    
     
     .Homepage-intro-text{
         text-align: right;
         margin-left: 4%;
         width: auto;
     }
-
+    
     .Homepage-intro-text h5{
     }
-
+    
     .Homepage-image-container{
         width: 500px;
         height: 400px;
     }
-
+    
     .Homepage-text{
         grid-row: 3;
         grid-column: 3;
@@ -102,9 +116,9 @@
         flex-wrap: wrap;
         align-content: center;
         margin-left: 5%;
-        margin-top: -100px;
+        margin-top: 0;
     }
-
+    
     .Homepage-links{
         width: 100%;
         padding-left: 10px;
@@ -117,12 +131,15 @@
         margin-right: 25px;
         height: 40px;
     }
-
+    
     .social-link-logo:hover{
         opacity: .5;
     }
-
+    
     .whitespace{
         display: none;
+    }
+    .desktop-break{
+        display: block;
     }
 }

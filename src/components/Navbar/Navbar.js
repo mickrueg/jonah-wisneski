@@ -17,15 +17,15 @@ const Navbar = () => {
     const [music, setMusic] = useState()
     const [shows, setShows] = useState()
     const [videos, setVideos] = useState()
-    const [remoteRecording, setRemoteRecording] = useState()
+    const [recording, setRecording] = useState()
     useEffect(()=>{
         function highlightSelection(pageSelected){
             pageSelected==='homepage'? setHomepage('selected') : setHomepage('')
             pageSelected==='contact'? setContact('selected') : setContact('')
-            pageSelected==='music2'? setMusic('selected') : setMusic('')
+            pageSelected==='music'? setMusic('selected') : setMusic('')
             pageSelected==='shows'? setShows('selected') : setShows('')
             pageSelected==='videos'? setVideos('selected') : setVideos('')
-            pageSelected==='remoteRecording'? setRemoteRecording('selected') : setRemoteRecording('')
+            pageSelected==='recording'? setRecording('selected') : setRecording('')
         }
 
         switch (routeSelected){
@@ -35,7 +35,7 @@ const Navbar = () => {
             case 'contact':
                 highlightSelection(routeSelected)
                 break;
-            case 'music2':
+            case 'music':
                 highlightSelection(routeSelected)
                 break;
             case 'shows':
@@ -44,7 +44,7 @@ const Navbar = () => {
             case 'videos':
                 highlightSelection(routeSelected)
                 break;
-            case 'remoteRecording':
+            case 'recording':
                 highlightSelection(routeSelected)
                 break;
             default:
@@ -116,13 +116,13 @@ const Navbar = () => {
                             }}><h2>HOMEPAGE</h2></Link>
                     </div>
                     <div className={`mobile-menu-item ${music}`}>
-                        <Link className='mobile-menu-text'to="/music2" onClick={()=>{
-                            setRouteSelected('music2')
+                        <Link className='mobile-menu-text'to="/music" onClick={()=>{
+                            setRouteSelected('music')
                             openOrCloseMenu()
                             }}><h2>MUSIC</h2></Link>
                     </div>
                     <div className={`mobile-menu-item ${shows}`}>
-                        <Link className='mobile-menu-text' to="/shows" onClick={()=>{
+                        <Link className='mobile-menu-text' to="/live" onClick={()=>{
                             setRouteSelected('shows')
                             openOrCloseMenu()
                             }}><h2>LIVE</h2></Link>
@@ -133,12 +133,12 @@ const Navbar = () => {
                             openOrCloseMenu()
                             }}><h2>VIDEOS</h2></Link>
                     </div>
-                    {/* <div className={`mobile-menu-item ${remoteRecording}`}>
-                        <Link className='mobile-menu-text' to="/videos" onClick={()=>{
-                            setRouteSelected('remoteRecording')
+                    <div className={`mobile-menu-item ${recording}`}>
+                        <Link className='mobile-menu-text' to="/recording" onClick={()=>{
+                            setRouteSelected('recording')
                             openOrCloseMenu()
-                        }}><h2>REMOTE <br></br>RECORDING</h2></Link>
-                    </div> */}
+                        }}><h2>RECORDING</h2></Link>
+                    </div>
                     <div className={`mobile-menu-item ${contact}`}>
                         <Link className='mobile-menu-text' to="/contact" onClick={()=>{
                             setRouteSelected('contact')
