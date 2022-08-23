@@ -1,23 +1,67 @@
 {
-    "Runaway": {
+    "Runaway": [{
         "youtube":"https://www.youtube.com/watch?v=HKoXrQqIMnU",
-        "youtubeEmbed": "https://www.youtube.com/embed/HKoXrQqIMnU",
-        "youtubeThumbnail": "https://i.ytimg.com/vi/HKoXrQqIMnU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARB2nwAAGcBEEQT3ipRfB0vQ2s5w",
         "youtubeTitle":"King Cardinal - Runaway"
 
-    },
-    "Bluebird Day": {
-        "youtube":"https://www.youtube.com/watch?v=fc5t87i1d8E"
-    },
-    "In Tall Buildings": {
-        "youtube":"https://www.youtube.com/watch?v=8DwSiOtUEwk"
-    },
-    "Rattlin'": {
-        "youtube":"https://www.youtube.com/watch?v=D1DUT8gF3p4"
-    },
-    "Forgive Me":{
-        "youtube": "https://www.youtube.com/watch?v=ow8-0D6PgxU&list=OLAK5uy_mq5lw4XqwuxO4vjUVORzJMCjmqYpGky64&index=6"
-    }
-
-
+    }],
+    "Bluebird Day": [{
+        "youtube":"https://www.youtube.com/watch?v=fc5t87i1d8E",
+        "youtubeTitle": "King Cardinal - Bluebird Day"
+    }],
+    "In Tall Buildings": [{
+        "youtube":"https://www.youtube.com/watch?v=8DwSiOtUEwk",
+        "youtubeTitle": "King Cardinal - In Tall Buildings"
+    }],
+    "Rattlin'": [{
+        "youtube":"https://www.youtube.com/watch?v=D1DUT8gF3p4",
+        "youtubeTitle": "King Cardinal - Rattlin'"
+    }],
+    "Forgive Me":[{
+        "youtube": "https://www.youtube.com/watch?v=ow8-0D6PgxU&list=OLAK5uy_mq5lw4XqwuxO4vjUVORzJMCjmqYpGky64&index=6",
+        "youtubeTitle": "Forgive Me"
+    }],
+    "Weather Patterns":[{
+        "youtube": "https://www.youtube.com/watch?v=0RGA63WD0tc",
+        "youtubeTitle": "Other Worlds - Weather Patterns (Full Album Playlist)"
+    }],
+    "Could You Be Loved":[{
+        "youtube": "https://www.youtube.com/watch?v=G5Zmk4PwtdY",
+        "youtubeTitle": "Dance Party Time Machine - Could You Be Loved"
+    }],
+    "Skyline":[{
+        "youtube": "https://www.youtube.com/watch?v=x7OZ4WDMb6Q",
+        "youtubeTitle": "Jaden Carlson Band - Skyline"
+    }],
+    "King of the World":[{
+        "youtube": "https://www.youtube.com/watch?v=SOxfiJfSFWk",
+        "youtubeTitle": "Tom Nowakowski - King Of The World"
+    }],
+    "Toolbag":[{
+        "youtube": "https://www.youtube.com/watch?v=gfmxezzIWvg",
+        "youtubeTitle": "Caitlin Cannon - Toolbag"
+    }],
+    "Live at the Boulder Theater":[{
+        "youtube": "https://www.youtube.com/watch?v=V-3-3ZjgsD4",
+        "youtubeTitle": "Andy Palmer - Will You Remember Me"
+        }, 
+        {
+        "youtube": "https://www.youtube.com/watch?v=CtByRUxMrwg",
+        "youtubeTitle": "Andy Palmer - Storms Not Coming"
+        },
+        {
+        "youtube": "https://www.youtube.com/watch?v=cfFgINeY7mI",
+        "youtubeTitle": "Andy Palmer - Grrr (Live From the Boulder Theater)"
+        },
+        {
+        "youtube": "https://www.youtube.com/watch?v=G-ANlrDYK3o",
+        "youtubeTitle": "Andy Palmer - Heart of Colfax (live From the boulder Theater)"
+        },
+        {
+        "youtube": "https://www.youtube.com/watch?v=cCpiLqyAf9k",
+        "youtubeTitle": "Andy Palmer - Will You Remember Me (Live from the boulder theater)"
+        }],
+    "Lights":[{
+        "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_lG42VaONa5jQI1lSXR1-Wes1tz8kfZSmA",
+        "youtubeTitle": "Jonah Wisneski - Lights (Full Album Playlist)"
+    }]
 }

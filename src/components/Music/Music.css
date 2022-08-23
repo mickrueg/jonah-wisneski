@@ -125,8 +125,36 @@
     z-index: 1;
 }
 
+.MusicLinks{
+    width: 100%;
+    padding: 0 35px;
+}
+
+.MusicLink{
+    text-decoration: none;
+    width: 100%;
+    margin: 15px 0;
+    display: grid;
+    grid-template-columns: 40px 1fr;
+}
+
+.MusicLink:hover{
+    opacity: .5;
+    cursor: pointer;
+}
+
 .fa-youtube{
     color: white;
+    font-size: 30px;
+}
+
+.MusicLinkText{
+    display: inline;
+    margin: auto 0;
+}
+
+.fa-arrow-up-right-from-square{
+    display: inline;
 }
 
 
@@ -239,6 +267,11 @@
         cursor: pointer;
     }
     
-    
+    .MusicLinks{
+        margin-top: 300px;
+        width: 80%;
+        grid-row: 3;
+        grid-column: 2;
+    }
     
 }

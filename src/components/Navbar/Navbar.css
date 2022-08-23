@@ -104,6 +104,10 @@
     transition-delay: 100ms;
 }
 
+.mobile-icon:hover{
+    cursor: pointer;
+}
+
 .hide{
     opacity: 0;
     transition: 100ms ease;

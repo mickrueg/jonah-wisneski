@@ -8,10 +8,13 @@ import './Music.css';
 // 4) Set market to "US"
 // 5) Click "Try It" to display results to copy/paste into Spotify.json
 import SpotifyAlbums from './SpotifyAlbums.json'
+import Links from './Links.json'
+import { Link } from 'react-router-dom';
 
 const Music = () => {
 
     const [spotifyID, setSpotifyID] = useState(SpotifyAlbums[0].id)
+    const [albumName, setAlbumName] = useState(SpotifyAlbums[0].name)
 
 
     const albumCollection = SpotifyAlbums.map((item, index)=>{
@@ -33,6 +36,7 @@ const Music = () => {
                 key={index}
                 onClick={()=>{
                     setSpotifyID(item.id)
+                    setAlbumName(item.name)
                     document.getElementById('Music-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
                 }}>
                 <img 
@@ -43,6 +47,20 @@ const Music = () => {
             </div>
         )
     })
+    
+    const displayLinks = Links[albumName].map((song, index)=>{
+        return(
+        <a className='MusicLink' href={song["youtube"]}>
+            <i className="fa fa-youtube" aria-hidden="true"></i>
+            <span className='MusicLinkText'>{song["youtubeTitle"]}&nbsp;&nbsp;
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                
+            </span>
+        </a>
+        )
+    })
+    
+    console.log(Links[albumName])
 
     return (
         <div className='Music-main' id='Music-main'>
@@ -50,10 +68,12 @@ const Music = () => {
                 <div className='whitespace'></div>
                 <div className='music-left-side'>
                     <div className='Music-image-container'>
-                        <iframe title="Visuals" className='Spotify-plugin' src={`https://open.spotify.com/embed/album/${spotifyID}?utm_source=generator`} width="100%" height="100%" frameBorder="0" allowFullScreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+                        <iframe title="SpotifyPlugIn" className='Spotify-plugin' src={`https://open.spotify.com/embed/album/${spotifyID}?utm_source=generator`} width="100%" height="100%" frameBorder="0" allowFullScreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
                     </div>
-                    {/* <i className="fa fa-youtube" aria-hidden="true"></i> */}
                 </div>
+                    <div className='MusicLinks'>
+                        {displayLinks}
+                    </div>
                 <div className='Music-section'>
                     <div className='whitespaceDesktop'></div>
                     <h2>MUSIC</h2>
