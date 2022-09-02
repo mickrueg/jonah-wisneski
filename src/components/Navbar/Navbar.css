@@ -40,7 +40,7 @@
 }
 
 .mobile-menu-container{
-    background-color: rgb(6, 100, 158, .5);
+    background-color: rgba(2, 82, 131, 0.5);
     width: 100vw;
     height: 100%;
     position: fixed;
@@ -145,7 +145,7 @@
     }
     
     .mobile-menu-container{
-        background-color: rgba(6, 100, 158, .5);
+        background-color: rgba(2, 82, 131, 0.5);
         width: calc(100% - 170px);
         height: 100px;
         position: fixed;
@@ -163,7 +163,7 @@
     .mobile-menu-container.open{
         bottom: 0;
         transition: none;
-        background-color: rgba(6, 100, 158, .5);
+        background-color: rgba(2, 82, 131, 0.5);
     }
     
     .mobile-menu-container .whitespace{
