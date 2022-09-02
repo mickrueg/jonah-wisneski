@@ -13,7 +13,7 @@ const Navbar = () => {
 
     //Route Selection State
     const [homepage, setHomepage] = useState()
-    const [contact, setContact] = useState()
+    const [about, setAbout] = useState()
     const [music, setMusic] = useState()
     const [shows, setShows] = useState()
     const [videos, setVideos] = useState()
@@ -21,7 +21,7 @@ const Navbar = () => {
     useEffect(()=>{
         function highlightSelection(pageSelected){
             pageSelected==='homepage'? setHomepage('selected') : setHomepage('')
-            pageSelected==='contact'? setContact('selected') : setContact('')
+            pageSelected==='about'? setAbout('selected') : setAbout('')
             pageSelected==='music'? setMusic('selected') : setMusic('')
             pageSelected==='shows'? setShows('selected') : setShows('')
             pageSelected==='videos'? setVideos('selected') : setVideos('')
@@ -32,7 +32,7 @@ const Navbar = () => {
             case 'homepage':
                 highlightSelection(routeSelected)
                 break;
-            case 'contact':
+            case 'about':
                 highlightSelection(routeSelected)
                 break;
             case 'music':
@@ -85,7 +85,7 @@ const Navbar = () => {
                         document.getElementById('Music-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
                         //onClick runs first scrollTo command but not the ones below. May need to create state for the current route in order to grab current ElementById
                         // document.getElementById('Videos-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
-                        // document.getElementById('Contact-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
+                        // document.getElementById('About-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
                         // document.getElementById('Shows-main').scrollTo({top: 0, left: 0, behavior: 'smooth'})
                     }}></div>
                     <Link to="/*" className='jonah-wisneski-title' onClick={()=>{
@@ -139,11 +139,11 @@ const Navbar = () => {
                             openOrCloseMenu()
                         }}><h2>RECORDING</h2></Link>
                     </div>
-                    <div className={`mobile-menu-item ${contact}`}>
-                        <Link className='mobile-menu-text' to="/contact" onClick={()=>{
-                            setRouteSelected('contact')
+                    <div className={`mobile-menu-item ${about}`}>
+                        <Link className='mobile-menu-text' to="/about" onClick={()=>{
+                            setRouteSelected('about')
                             openOrCloseMenu()
-                            }}><h2>CONTACT</h2></Link>
+                            }}><h2>ABOUT</h2></Link>
                     </div>
                 </ul>
                 <div className='whitespace'></div>

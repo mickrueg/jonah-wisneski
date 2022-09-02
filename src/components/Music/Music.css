@@ -25,7 +25,7 @@
     width: 100vw;
     height: 66vw;
     box-sizing: border-box;
-    box-shadow: inset 0 0 30px 25px black;
+    /* box-shadow: inset 0 0 30px 25px black; */
     display: flex;
     flex-wrap: wrap;
     justify-content: right;
@@ -186,6 +186,7 @@
         height: 400px;
         padding: 0;
         display: flex;
+        background-color: none;
     }
     
     .whitespace{

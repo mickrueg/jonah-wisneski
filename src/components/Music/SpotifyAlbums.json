@@ -1323,6 +1323,133 @@
       ],
       "copyrights": [
         {
+          "text": "2014 Andy Palmer",
+          "type": "C"
+        },
+        {
+          "text": "2014 Andy Palmer",
+          "type": "P"
+        }
+      ],
+      "external_ids": {
+        "upc": "5055834118617"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6938fhSf6OBqo20YvdH71q"
+      },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/albums/6938fhSf6OBqo20YvdH71q",
+      "id": "6938fhSf6OBqo20YvdH71q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c0084bfc41bc0eff142c749",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c0084bfc41bc0eff142c749",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c0084bfc41bc0eff142c749",
+          "width": 64
+        }
+      ],
+      "label": "Immersive Records",
+      "name": "Storm's Not Coming",
+      "popularity": 0,
+      "release_date": "2014-10-21",
+      "release_date_precision": "day",
+      "total_tracks": 2,
+      "tracks": {
+        "href": "https://api.spotify.com/v1/albums/6938fhSf6OBqo20YvdH71q/tracks?offset=0&limit=50&market=US&locale=en-US,en;q=0.9",
+        "items": [
+          {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4kmEYh09DRiOAEsPHMzRzV"
+                },
+                "href": "https://api.spotify.com/v1/artists/4kmEYh09DRiOAEsPHMzRzV",
+                "id": "4kmEYh09DRiOAEsPHMzRzV",
+                "name": "Andy Palmer",
+                "type": "artist",
+                "uri": "spotify:artist:4kmEYh09DRiOAEsPHMzRzV"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 231648,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/0z34jMP2bFc47F7cy9XFq4"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0z34jMP2bFc47F7cy9XFq4",
+            "id": "0z34jMP2bFc47F7cy9XFq4",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Storm's Not Coming",
+            "preview_url": "https://p.scdn.co/mp3-preview/72b174ea76e32334d07a038a24fecf900cf893de?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0z34jMP2bFc47F7cy9XFq4"
+          },
+          {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4kmEYh09DRiOAEsPHMzRzV"
+                },
+                "href": "https://api.spotify.com/v1/artists/4kmEYh09DRiOAEsPHMzRzV",
+                "id": "4kmEYh09DRiOAEsPHMzRzV",
+                "name": "Andy Palmer",
+                "type": "artist",
+                "uri": "spotify:artist:4kmEYh09DRiOAEsPHMzRzV"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 142181,
+            "explicit": false,
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/2wIPgmKRuJr8hgJnLTOLes"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2wIPgmKRuJr8hgJnLTOLes",
+            "id": "2wIPgmKRuJr8hgJnLTOLes",
+            "is_local": false,
+            "is_playable": true,
+            "name": "The Hill",
+            "preview_url": "https://p.scdn.co/mp3-preview/843439b8ca9f4914091a0ef2159073a0f00c24d7?cid=774b29d4f13844c495f206cafdad9c86",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:2wIPgmKRuJr8hgJnLTOLes"
+          }
+        ],
+        "limit": 50,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total": 2
+      },
+      "type": "album",
+      "uri": "spotify:album:6938fhSf6OBqo20YvdH71q"
+    },
+    {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4kmEYh09DRiOAEsPHMzRzV"
+          },
+          "href": "https://api.spotify.com/v1/artists/4kmEYh09DRiOAEsPHMzRzV",
+          "id": "4kmEYh09DRiOAEsPHMzRzV",
+          "name": "Andy Palmer",
+          "type": "artist",
+          "uri": "spotify:artist:4kmEYh09DRiOAEsPHMzRzV"
+        }
+      ],
+      "copyrights": [
+        {
           "text": "(C) 2014 Andy Palmer Music",
           "type": "C"
         }

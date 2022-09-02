@@ -7,8 +7,8 @@ const Recording = () => {
             <div className='Recording-container'>
                 <div className='whitespace'></div>
                 <div className='whitespace-desktop'></div>
-                <h2>PROFESSIONAL REQUESTS & RECORDING EQUIPMENT</h2>
-                <h5>Need for guitars for a track or interested in a producer for an upcoming recording project?  Jonah Wisneski can help! See recording equipment below.</h5>
+                <h2>RECORDING</h2>
+                <h5>Need for guitars for a track or interested in a producer for an upcoming recording project? I can help! My professional home studio is equipped for remote and in-person tracking, with plenty of tonal/gear options to cater towards whatever sounds you're looking for. Feel free to reach out with any inquiries. See recording equipment below.</h5>
                 <br></br>
                 <h3>INTERFACE</h3>
                 <h5 className='gear-list'>Universal Audio Apollo x8 (ProTools)</h5>

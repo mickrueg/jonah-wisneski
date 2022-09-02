@@ -4,9 +4,10 @@ import './Music.css';
 // To refresh music data from Spotify, do the following
 // 1) Go to https://developer.spotify.com/console/get-playlist/?playlist_id=24qeMQk4FpwEqxzMY8PEhy&market=&fields=&additional_types=
 // 2) Click "Get Token" > "Request Token" > and login
-// 3) Double check Playlist ID is correct (you can get this by finding link in Spotify)
+// 3) Add the Album ID (you can get this by extracting it from the "Share" link in Spotify)
 // 4) Set market to "US"
 // 5) Click "Try It" to display results to copy/paste into Spotify.json
+// 6) If this is a new album, be sure to add it to the Links.json file. If you don't have a youtube linkyou can leave it blank or the website will throw an error.
 import SpotifyAlbums from './SpotifyAlbums.json'
 import Links from './Links.json'
 import { Link } from 'react-router-dom';
@@ -49,15 +50,19 @@ const Music = () => {
     })
     
     const displayLinks = Links[albumName].map((song, index)=>{
-        return(
-        <a className='MusicLink' href={song["youtube"]}>
-            <i className="fa fa-youtube" aria-hidden="true"></i>
-            <span className='MusicLinkText'>{song["youtubeTitle"]}&nbsp;&nbsp;
-                <i class="fa-solid fa-arrow-up-right-from-square"></i>
-                
-            </span>
-        </a>
-        )
+        if(!song.youtube){
+
+        } else {
+            return(
+            <a className='MusicLink' href={song["youtube"]}>
+                <i className="fa fa-youtube" aria-hidden="true"></i>
+                <span className='MusicLinkText'>{song["youtubeTitle"]}&nbsp;&nbsp;
+                    <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                    
+                </span>
+            </a>
+            )
+        }
     })
     
     console.log(Links[albumName])
